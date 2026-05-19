@@ -1,0 +1,64 @@
+# Punakha — Bhutan Administrative Divisions
+
+> 11 sub-districts
+> Code: BT010
+> Coordinates: 27.665, 89.859
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bapisa
+
+Code: BT01001, Coordinates: 27.504, 89.863
+
+
+### Chhubu
+
+Code: BT01002, Coordinates: 27.663, 89.834
+
+
+### Dzoma
+
+Code: BT01003, Coordinates: 27.582, 89.882
+
+
+### Goenshari
+
+Code: BT01004, Coordinates: 27.719, 89.764
+
+
+### Guma
+
+Code: BT01005, Coordinates: 27.577, 89.793
+
+
+### Kabjisa
+
+Code: BT01006, Coordinates: 27.643, 89.72
+
+
+### Lingmukha
+
+Code: BT01007, Coordinates: 27.547, 89.915
+
+
+### Shengabjimi
+
+Code: BT01008, Coordinates: 27.607, 89.954
+
+
+### Talo
+
+Code: BT01009, Coordinates: 27.557, 89.827
+
+
+### Toepisa
+
+Code: BT01010, Coordinates: 27.524, 89.774
+
+
+### Toewang
+
+Code: BT01011, Coordinates: 27.737, 89.913
+
+

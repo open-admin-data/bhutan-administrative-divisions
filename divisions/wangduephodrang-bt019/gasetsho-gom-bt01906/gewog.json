@@ -1,0 +1,47 @@
+{
+  "id": "BT01906",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Gasetsho Gom",
+    "en": "Gasetsho Gom",
+    "slug": "gasetsho-gom-bt01906"
+  },
+  "code": {
+    "id": "BT01906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT019",
+    "level": 1,
+    "name": {
+      "local": "དབང་འདུས་ཕོ་བྲང",
+      "en": "Wangduephodrang",
+      "slug": "wangduephodrang-bt019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "14001"
+  ],
+  "geo": {
+    "lat": "27.432",
+    "lon": "89.879"
+  },
+  "metadata": {},
+  "source": {}
+}

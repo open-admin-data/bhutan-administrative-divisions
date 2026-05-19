@@ -1,0 +1,29 @@
+{
+  "id": "BT007",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "མོང་སྒར",
+    "en": "Monggar",
+    "slug": "monggar-bt007"
+  },
+  "code": {
+    "id": "BT007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.269",
+    "lon": "91.212"
+  },
+  "metadata": {},
+  "source": {}
+}

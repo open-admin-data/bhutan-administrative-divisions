@@ -1,0 +1,47 @@
+{
+  "id": "BT01701",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Dragteng",
+    "en": "Dragteng",
+    "slug": "dragteng-bt01701"
+  },
+  "code": {
+    "id": "BT01701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT017",
+    "level": 1,
+    "name": {
+      "local": "ཀྲོང་གསར་",
+      "en": "Trongsa",
+      "slug": "trongsa-bt017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "33001"
+  ],
+  "geo": {
+    "lat": "27.427",
+    "lon": "90.511"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT01209",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Pagli",
+    "en": "Pagli",
+    "slug": "pagli-bt01209"
+  },
+  "code": {
+    "id": "BT01209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT012",
+    "level": 1,
+    "name": {
+      "local": "བསམ་རྩེ་",
+      "en": "Samtse",
+      "slug": "samtse-bt012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "22002"
+  ],
+  "geo": {
+    "lat": "26.85",
+    "lon": "89.19"
+  },
+  "metadata": {},
+  "source": {}
+}

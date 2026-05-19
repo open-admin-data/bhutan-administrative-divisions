@@ -1,0 +1,47 @@
+{
+  "id": "BT01310",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Shompangkha",
+    "en": "Shompangkha",
+    "slug": "shompangkha-bt01310"
+  },
+  "code": {
+    "id": "BT01310",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT013",
+    "level": 1,
+    "name": {
+      "local": "གསར་སྤང་",
+      "en": "Sarpang",
+      "slug": "sarpang-bt013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "31002"
+  ],
+  "geo": {
+    "lat": "26.878",
+    "lon": "90.286"
+  },
+  "metadata": {},
+  "source": {}
+}

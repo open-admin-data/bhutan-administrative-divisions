@@ -1,0 +1,47 @@
+{
+  "id": "BT00801",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Doga",
+    "en": "Doga",
+    "slug": "doga-bt00801"
+  },
+  "code": {
+    "id": "BT00801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT008",
+    "level": 1,
+    "name": {
+      "local": "སྤ་རོ་",
+      "en": "Paro",
+      "slug": "paro-bt008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "12001"
+  ],
+  "geo": {
+    "lat": "27.296",
+    "lon": "89.483"
+  },
+  "metadata": {},
+  "source": {}
+}

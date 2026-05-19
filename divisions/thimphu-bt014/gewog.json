@@ -1,0 +1,378 @@
+[
+  {
+    "id": "BT01401",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chang",
+      "en": "Chang",
+      "slug": "chang-bt01401"
+    },
+    "code": {
+      "id": "BT01401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.44",
+      "lon": "89.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01402",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dagala",
+      "en": "Dagala",
+      "slug": "dagala-bt01402"
+    },
+    "code": {
+      "id": "BT01402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.288",
+      "lon": "89.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01403",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Genye",
+      "en": "Genye",
+      "slug": "genye-bt01403"
+    },
+    "code": {
+      "id": "BT01403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.303",
+      "lon": "89.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01404",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kawang",
+      "en": "Kawang",
+      "slug": "kawang-bt01404"
+    },
+    "code": {
+      "id": "BT01404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.573",
+      "lon": "89.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01405",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lingzhi",
+      "en": "Lingzhi",
+      "slug": "lingzhi-bt01405"
+    },
+    "code": {
+      "id": "BT01405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.839",
+      "lon": "89.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01406",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Mewang",
+      "en": "Mewang",
+      "slug": "mewang-bt01406"
+    },
+    "code": {
+      "id": "BT01406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.441",
+      "lon": "89.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01407",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Naro",
+      "en": "Naro",
+      "slug": "naro-bt01407"
+    },
+    "code": {
+      "id": "BT01407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.679",
+      "lon": "89.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01408",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Soe",
+      "en": "Soe",
+      "slug": "soe-bt01408"
+    },
+    "code": {
+      "id": "BT01408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.786",
+      "lon": "89.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

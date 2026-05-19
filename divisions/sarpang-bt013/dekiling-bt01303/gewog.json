@@ -1,0 +1,47 @@
+{
+  "id": "BT01303",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Dekiling",
+    "en": "Dekiling",
+    "slug": "dekiling-bt01303"
+  },
+  "code": {
+    "id": "BT01303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT013",
+    "level": 1,
+    "name": {
+      "local": "གསར་སྤང་",
+      "en": "Sarpang",
+      "slug": "sarpang-bt013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "31002"
+  ],
+  "geo": {
+    "lat": "26.935",
+    "lon": "90.353"
+  },
+  "metadata": {},
+  "source": {}
+}

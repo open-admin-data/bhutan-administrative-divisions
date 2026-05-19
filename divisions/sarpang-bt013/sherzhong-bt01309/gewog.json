@@ -1,0 +1,47 @@
+{
+  "id": "BT01309",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Sherzhong",
+    "en": "Sherzhong",
+    "slug": "sherzhong-bt01309"
+  },
+  "code": {
+    "id": "BT01309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT013",
+    "level": 1,
+    "name": {
+      "local": "གསར་སྤང་",
+      "en": "Sarpang",
+      "slug": "sarpang-bt013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "31002"
+  ],
+  "geo": {
+    "lat": "26.924",
+    "lon": "90.557"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BT002",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "ཆུ་ཁ",
+    "en": "Chhukha",
+    "slug": "chhukha-bt002"
+  },
+  "code": {
+    "id": "BT002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.016",
+    "lon": "89.544"
+  },
+  "metadata": {},
+  "source": {}
+}

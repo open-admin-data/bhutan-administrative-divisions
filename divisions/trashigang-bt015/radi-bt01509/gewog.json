@@ -1,0 +1,47 @@
+{
+  "id": "BT01509",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Radi",
+    "en": "Radi",
+    "slug": "radi-bt01509"
+  },
+  "code": {
+    "id": "BT01509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT015",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་སྒང་",
+      "en": "Trashigang",
+      "slug": "trashigang-bt015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "42001"
+  ],
+  "geo": {
+    "lat": "27.357",
+    "lon": "91.707"
+  },
+  "metadata": {},
+  "source": {}
+}

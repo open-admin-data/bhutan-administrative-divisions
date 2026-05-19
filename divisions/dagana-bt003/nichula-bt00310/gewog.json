@@ -1,0 +1,47 @@
+{
+  "id": "BT00310",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Nichula",
+    "en": "Nichula",
+    "slug": "nichula-bt00310"
+  },
+  "code": {
+    "id": "BT00310",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT003",
+    "level": 1,
+    "name": {
+      "local": "དར་དཀར་ན་",
+      "en": "Dagana",
+      "slug": "dagana-bt003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "35001"
+  ],
+  "geo": {
+    "lat": "26.796",
+    "lon": "89.996"
+  },
+  "metadata": {},
+  "source": {}
+}

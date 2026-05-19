@@ -1,0 +1,47 @@
+{
+  "id": "BT00710",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Narang",
+    "en": "Narang",
+    "slug": "narang-bt00710"
+  },
+  "code": {
+    "id": "BT00710",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT007",
+    "level": 1,
+    "name": {
+      "local": "མོང་སྒར",
+      "en": "Monggar",
+      "slug": "monggar-bt007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "43001"
+  ],
+  "geo": {
+    "lat": "27.301",
+    "lon": "91.432"
+  },
+  "metadata": {},
+  "source": {}
+}

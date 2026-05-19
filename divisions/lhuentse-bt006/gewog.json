@@ -1,0 +1,378 @@
+[
+  {
+    "id": "BT00601",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gangzur",
+      "en": "Gangzur",
+      "slug": "gangzur-bt00601"
+    },
+    "code": {
+      "id": "BT00601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.723",
+      "lon": "91.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00602",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jaray",
+      "en": "Jaray",
+      "slug": "jaray-bt00602"
+    },
+    "code": {
+      "id": "BT00602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.454",
+      "lon": "91.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00603",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khoma",
+      "en": "Khoma",
+      "slug": "khoma-bt00603"
+    },
+    "code": {
+      "id": "BT00603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.836",
+      "lon": "91.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00604",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kurtoe",
+      "en": "Kurtoe",
+      "slug": "kurtoe-bt00604"
+    },
+    "code": {
+      "id": "BT00604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.926",
+      "lon": "91.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00605",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Menbi",
+      "en": "Menbi",
+      "slug": "menbi-bt00605"
+    },
+    "code": {
+      "id": "BT00605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.598",
+      "lon": "91.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00606",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Metsho",
+      "en": "Metsho",
+      "slug": "metsho-bt00606"
+    },
+    "code": {
+      "id": "BT00606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.547",
+      "lon": "91.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00607",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Minjay",
+      "en": "Minjay",
+      "slug": "minjay-bt00607"
+    },
+    "code": {
+      "id": "BT00607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.584",
+      "lon": "91.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00608",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsenkhar",
+      "en": "Tsenkhar",
+      "slug": "tsenkhar-bt00608"
+    },
+    "code": {
+      "id": "BT00608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.467",
+      "lon": "91.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

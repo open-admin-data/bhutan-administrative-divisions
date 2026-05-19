@@ -1,0 +1,47 @@
+{
+  "id": "BT01810",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Shemjong",
+    "en": "Shemjong",
+    "slug": "shemjong-bt01810"
+  },
+  "code": {
+    "id": "BT01810",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT018",
+    "level": 1,
+    "name": {
+      "local": "རྩི་རང་",
+      "en": "Tsirang",
+      "slug": "tsirang-bt018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "36001"
+  ],
+  "geo": {
+    "lat": "27.038",
+    "lon": "90.169"
+  },
+  "metadata": {},
+  "source": {}
+}

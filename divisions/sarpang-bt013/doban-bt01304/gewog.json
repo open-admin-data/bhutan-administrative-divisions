@@ -1,0 +1,47 @@
+{
+  "id": "BT01304",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Doban",
+    "en": "Doban",
+    "slug": "doban-bt01304"
+  },
+  "code": {
+    "id": "BT01304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT013",
+    "level": 1,
+    "name": {
+      "local": "གསར་སྤང་",
+      "en": "Sarpang",
+      "slug": "sarpang-bt013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "31002"
+  ],
+  "geo": {
+    "lat": "27.056",
+    "lon": "90.332"
+  },
+  "metadata": {},
+  "source": {}
+}

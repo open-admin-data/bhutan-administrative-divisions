@@ -1,0 +1,29 @@
+{
+  "id": "BT001",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "བུམ་ཐང་",
+    "en": "Bumthang",
+    "slug": "bumthang-bt001"
+  },
+  "code": {
+    "id": "BT001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.708",
+    "lon": "90.769"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BT016",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "བཀྲིས་གཡང་རྩེ",
+    "en": "Yangtse",
+    "slug": "yangtse-bt016"
+  },
+  "code": {
+    "id": "BT016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.678",
+    "lon": "91.472"
+  },
+  "metadata": {},
+  "source": {}
+}

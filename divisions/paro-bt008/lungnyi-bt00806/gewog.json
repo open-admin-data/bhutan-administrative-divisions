@@ -1,0 +1,47 @@
+{
+  "id": "BT00806",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Lungnyi",
+    "en": "Lungnyi",
+    "slug": "lungnyi-bt00806"
+  },
+  "code": {
+    "id": "BT00806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT008",
+    "level": 1,
+    "name": {
+      "local": "སྤ་རོ་",
+      "en": "Paro",
+      "slug": "paro-bt008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "12001"
+  ],
+  "geo": {
+    "lat": "27.38",
+    "lon": "89.386"
+  },
+  "metadata": {},
+  "source": {}
+}

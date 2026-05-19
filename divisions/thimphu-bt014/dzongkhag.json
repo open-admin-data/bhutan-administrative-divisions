@@ -1,0 +1,29 @@
+{
+  "id": "BT014",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "ཐིམ་ཕུ་",
+    "en": "Thimphu",
+    "slug": "thimphu-bt014"
+  },
+  "code": {
+    "id": "BT014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.573",
+    "lon": "89.583"
+  },
+  "metadata": {},
+  "source": {}
+}

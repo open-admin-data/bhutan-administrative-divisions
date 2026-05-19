@@ -1,0 +1,47 @@
+{
+  "id": "BT01215",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Ugentse",
+    "en": "Ugentse",
+    "slug": "ugentse-bt01215"
+  },
+  "code": {
+    "id": "BT01215",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT012",
+    "level": 1,
+    "name": {
+      "local": "བསམ་རྩེ་",
+      "en": "Samtse",
+      "slug": "samtse-bt012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "22001"
+  ],
+  "geo": {
+    "lat": "26.958",
+    "lon": "89.007"
+  },
+  "metadata": {},
+  "source": {}
+}

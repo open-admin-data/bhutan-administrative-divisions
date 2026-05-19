@@ -1,0 +1,79 @@
+# Dagana — Bhutan Administrative Divisions
+
+> 14 sub-districts
+> Code: BT003
+> Coordinates: 26.991, 89.924
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Deorali
+
+Code: BT00301, Coordinates: 26.79, 89.881
+
+
+### Dorona
+
+Code: BT00302, Coordinates: 26.874, 89.832
+
+
+### Drugyelgang
+
+Code: BT00303, Coordinates: 26.986, 90.035
+
+
+### Gesarling
+
+Code: BT00304, Coordinates: 26.922, 89.9
+
+
+### Gozhi
+
+Code: BT00305, Coordinates: 26.937, 89.921
+
+
+### Kalidzingkha
+
+Code: BT00306, Coordinates: 27, 89.859
+
+
+### Khipisa
+
+Code: BT00307, Coordinates: 27.038, 89.954
+
+
+### Lajab
+
+Code: BT00308, Coordinates: 27.095, 90.013
+
+
+### Lhamoizingkha
+
+Code: BT00309, Coordinates: 26.759, 89.787
+
+
+### Nichula
+
+Code: BT00310, Coordinates: 26.796, 89.996
+
+
+### Trashiding
+
+Code: BT00311, Coordinates: 26.91, 89.993
+
+
+### Tsangkha
+
+Code: BT00312, Coordinates: 27.037, 90.042
+
+
+### Tsendagang
+
+Code: BT00313, Coordinates: 26.88, 89.922
+
+
+### Tseza
+
+Code: BT00314, Coordinates: 27.158, 89.791
+
+

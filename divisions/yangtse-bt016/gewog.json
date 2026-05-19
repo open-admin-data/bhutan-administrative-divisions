@@ -1,0 +1,378 @@
+[
+  {
+    "id": "BT01601",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bumdeling",
+      "en": "Bumdeling",
+      "slug": "bumdeling-bt01601"
+    },
+    "code": {
+      "id": "BT01601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.79",
+      "lon": "91.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01602",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jamkhar",
+      "en": "Jamkhar",
+      "slug": "jamkhar-bt01602"
+    },
+    "code": {
+      "id": "BT01602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.408",
+      "lon": "91.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01603",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khamdang",
+      "en": "Khamdang",
+      "slug": "khamdang-bt01603"
+    },
+    "code": {
+      "id": "BT01603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.489",
+      "lon": "91.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01604",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ramjar",
+      "en": "Ramjar",
+      "slug": "ramjar-bt01604"
+    },
+    "code": {
+      "id": "BT01604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.409",
+      "lon": "91.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01605",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Toetsho",
+      "en": "Toetsho",
+      "slug": "toetsho-bt01605"
+    },
+    "code": {
+      "id": "BT01605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.503",
+      "lon": "91.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01606",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tomzhangtshen",
+      "en": "Tomzhangtshen",
+      "slug": "tomzhangtshen-bt01606"
+    },
+    "code": {
+      "id": "BT01606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.451",
+      "lon": "91.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01608",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Trashiyangtse",
+      "en": "Trashiyangtse",
+      "slug": "trashiyangtse-bt01608"
+    },
+    "code": {
+      "id": "BT01608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.563",
+      "lon": "91.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01607",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yalang",
+      "en": "Yalang",
+      "slug": "yalang-bt01607"
+    },
+    "code": {
+      "id": "BT01607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.462",
+      "lon": "91.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

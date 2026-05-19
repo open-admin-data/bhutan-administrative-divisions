@@ -1,0 +1,47 @@
+{
+  "id": "BT01111",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Wangphu",
+    "en": "Wangphu",
+    "slug": "wangphu-bt01111"
+  },
+  "code": {
+    "id": "BT01111",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT011",
+    "level": 1,
+    "name": {
+      "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+      "en": "Samdrupjongkhar",
+      "slug": "samdrupjongkhar-bt011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "41001"
+  ],
+  "geo": {
+    "lat": "26.976",
+    "lon": "91.621"
+  },
+  "metadata": {},
+  "source": {}
+}

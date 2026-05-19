@@ -1,0 +1,472 @@
+[
+  {
+    "id": "BT00801",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Doga",
+      "en": "Doga",
+      "slug": "doga-bt00801"
+    },
+    "code": {
+      "id": "BT00801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.296",
+      "lon": "89.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00802",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dopshari",
+      "en": "Dopshari",
+      "slug": "dopshari-bt00802"
+    },
+    "code": {
+      "id": "BT00802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.457",
+      "lon": "89.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00803",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Doteng",
+      "en": "Doteng",
+      "slug": "doteng-bt00803"
+    },
+    "code": {
+      "id": "BT00803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.558",
+      "lon": "89.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00804",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Hungrel",
+      "en": "Hungrel",
+      "slug": "hungrel-bt00804"
+    },
+    "code": {
+      "id": "BT00804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.417",
+      "lon": "89.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00805",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lamgong",
+      "en": "Lamgong",
+      "slug": "lamgong-bt00805"
+    },
+    "code": {
+      "id": "BT00805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.439",
+      "lon": "89.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00806",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lungnyi",
+      "en": "Lungnyi",
+      "slug": "lungnyi-bt00806"
+    },
+    "code": {
+      "id": "BT00806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.38",
+      "lon": "89.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00807",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Naja",
+      "en": "Naja",
+      "slug": "naja-bt00807"
+    },
+    "code": {
+      "id": "BT00807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.254",
+      "lon": "89.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00808",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shapa",
+      "en": "Shapa",
+      "slug": "shapa-bt00808"
+    },
+    "code": {
+      "id": "BT00808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.36",
+      "lon": "89.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00809",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsento",
+      "en": "Tsento",
+      "slug": "tsento-bt00809"
+    },
+    "code": {
+      "id": "BT00809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.609",
+      "lon": "89.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00810",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Wangchang",
+      "en": "Wangchang",
+      "slug": "wangchang-bt00810"
+    },
+    "code": {
+      "id": "BT00810",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.411",
+      "lon": "89.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

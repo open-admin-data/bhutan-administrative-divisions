@@ -1,0 +1,47 @@
+{
+  "id": "BT01301",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Bhur",
+    "en": "Bhur",
+    "slug": "bhur-bt01301"
+  },
+  "code": {
+    "id": "BT01301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT013",
+    "level": 1,
+    "name": {
+      "local": "གསར་སྤང་",
+      "en": "Sarpang",
+      "slug": "sarpang-bt013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "31002"
+  ],
+  "geo": {
+    "lat": "26.926",
+    "lon": "90.431"
+  },
+  "metadata": {},
+  "source": {}
+}

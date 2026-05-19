@@ -1,0 +1,47 @@
+{
+  "id": "BT01801",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Barzhong",
+    "en": "Barzhong",
+    "slug": "barzhong-bt01801"
+  },
+  "code": {
+    "id": "BT01801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT018",
+    "level": 1,
+    "name": {
+      "local": "རྩི་རང་",
+      "en": "Tsirang",
+      "slug": "tsirang-bt018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "36001"
+  ],
+  "geo": {
+    "lat": "26.941",
+    "lon": "90.076"
+  },
+  "metadata": {},
+  "source": {}
+}

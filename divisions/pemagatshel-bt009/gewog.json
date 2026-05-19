@@ -1,0 +1,519 @@
+[
+  {
+    "id": "BT00901",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhimung",
+      "en": "Chhimung",
+      "slug": "chhimung-bt00901"
+    },
+    "code": {
+      "id": "BT00901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.039",
+      "lon": "91.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00902",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chokhorling",
+      "en": "Chokhorling",
+      "slug": "chokhorling-bt00902"
+    },
+    "code": {
+      "id": "BT00902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.854",
+      "lon": "91.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00903",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chongshing",
+      "en": "Chongshing",
+      "slug": "chongshing-bt00903"
+    },
+    "code": {
+      "id": "BT00903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.999",
+      "lon": "91.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00904",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dechhenling",
+      "en": "Dechhenling",
+      "slug": "dechhenling-bt00904"
+    },
+    "code": {
+      "id": "BT00904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.904",
+      "lon": "91.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00905",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dungmin",
+      "en": "Dungmin",
+      "slug": "dungmin-bt00905"
+    },
+    "code": {
+      "id": "BT00905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.981",
+      "lon": "91.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00906",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khar",
+      "en": "Khar",
+      "slug": "khar-bt00906"
+    },
+    "code": {
+      "id": "BT00906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.945",
+      "lon": "91.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00907",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nanong",
+      "en": "Nanong",
+      "slug": "nanong-bt00907"
+    },
+    "code": {
+      "id": "BT00907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.098",
+      "lon": "91.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00908",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Norbugang",
+      "en": "Norbugang",
+      "slug": "norbugang-bt00908"
+    },
+    "code": {
+      "id": "BT00908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.832",
+      "lon": "91.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00909",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shumer",
+      "en": "Shumer",
+      "slug": "shumer-bt00909"
+    },
+    "code": {
+      "id": "BT00909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.089",
+      "lon": "91.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00910",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yurung",
+      "en": "Yurung",
+      "slug": "yurung-bt00910"
+    },
+    "code": {
+      "id": "BT00910",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.042",
+      "lon": "91.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00911",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Zobel",
+      "en": "Zobel",
+      "slug": "zobel-bt00911"
+    },
+    "code": {
+      "id": "BT00911",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.065",
+      "lon": "91.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

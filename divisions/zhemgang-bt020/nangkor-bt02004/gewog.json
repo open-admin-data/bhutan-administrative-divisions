@@ -1,0 +1,47 @@
+{
+  "id": "BT02004",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Nangkor",
+    "en": "Nangkor",
+    "slug": "nangkor-bt02004"
+  },
+  "code": {
+    "id": "BT02004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT020",
+    "level": 1,
+    "name": {
+      "local": "གཞལམ་སྒང་",
+      "en": "Zhemgang",
+      "slug": "zhemgang-bt020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "34001"
+  ],
+  "geo": {
+    "lat": "27.203",
+    "lon": "90.79"
+  },
+  "metadata": {},
+  "source": {}
+}

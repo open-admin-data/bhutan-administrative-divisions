@@ -1,0 +1,190 @@
+[
+  {
+    "id": "BT00101",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhoekhor",
+      "en": "Chhoekhor",
+      "slug": "chhoekhor-bt00101"
+    },
+    "code": {
+      "id": "BT00101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.781",
+      "lon": "90.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00102",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhume",
+      "en": "Chhume",
+      "slug": "chhume-bt00102"
+    },
+    "code": {
+      "id": "BT00102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.465",
+      "lon": "90.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00103",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tang",
+      "en": "Tang",
+      "slug": "tang-bt00103"
+    },
+    "code": {
+      "id": "BT00103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.681",
+      "lon": "90.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00104",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ura",
+      "en": "Ura",
+      "slug": "ura-bt00104"
+    },
+    "code": {
+      "id": "BT00104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.459",
+      "lon": "90.914"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

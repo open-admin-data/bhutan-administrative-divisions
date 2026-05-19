@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+BT00101,Chhoekhor,Chhoekhor,chhoekhor-bt00101,BT00101,32001,27.781,90.667
+BT00102,Chhume,Chhume,chhume-bt00102,BT00102,32001,27.465,90.705
+BT00103,Tang,Tang,tang-bt00103,BT00103,32001,27.681,90.897
+BT00104,Ura,Ura,ura-bt00104,BT00104,32001,27.459,90.914

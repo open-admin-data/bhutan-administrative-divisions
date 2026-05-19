@@ -1,0 +1,47 @@
+{
+  "id": "BT00501",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Bji",
+    "en": "Bji",
+    "slug": "bji-bt00501"
+  },
+  "code": {
+    "id": "BT00501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT005",
+    "level": 1,
+    "name": {
+      "local": "ཧཱ་",
+      "en": "Haa",
+      "slug": "haa-bt005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "15001"
+  ],
+  "geo": {
+    "lat": "27.451",
+    "lon": "89.14"
+  },
+  "metadata": {},
+  "source": {}
+}

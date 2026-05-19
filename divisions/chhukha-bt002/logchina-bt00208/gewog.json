@@ -1,0 +1,47 @@
+{
+  "id": "BT00208",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Logchina",
+    "en": "Logchina",
+    "slug": "logchina-bt00208"
+  },
+  "code": {
+    "id": "BT00208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT002",
+    "level": 1,
+    "name": {
+      "local": "ཆུ་ཁ",
+      "en": "Chhukha",
+      "slug": "chhukha-bt002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "21101"
+  ],
+  "geo": {
+    "lat": "26.957",
+    "lon": "89.361"
+  },
+  "metadata": {},
+  "source": {}
+}

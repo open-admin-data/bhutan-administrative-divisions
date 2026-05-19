@@ -1,0 +1,47 @@
+{
+  "id": "BT01009",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Talo",
+    "en": "Talo",
+    "slug": "talo-bt01009"
+  },
+  "code": {
+    "id": "BT01009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT010",
+    "level": 1,
+    "name": {
+      "local": "སྤུ་ན་ཁ་",
+      "en": "Punakha",
+      "slug": "punakha-bt010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "13001"
+  ],
+  "geo": {
+    "lat": "27.557",
+    "lon": "89.827"
+  },
+  "metadata": {},
+  "source": {}
+}

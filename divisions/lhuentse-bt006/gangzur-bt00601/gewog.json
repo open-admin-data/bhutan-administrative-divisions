@@ -1,0 +1,47 @@
+{
+  "id": "BT00601",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Gangzur",
+    "en": "Gangzur",
+    "slug": "gangzur-bt00601"
+  },
+  "code": {
+    "id": "BT00601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT006",
+    "level": 1,
+    "name": {
+      "local": "ལྷུན་རྩེ",
+      "en": "Lhuentse",
+      "slug": "lhuentse-bt006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "45001"
+  ],
+  "geo": {
+    "lat": "27.723",
+    "lon": "91.073"
+  },
+  "metadata": {},
+  "source": {}
+}

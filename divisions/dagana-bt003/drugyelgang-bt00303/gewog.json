@@ -1,0 +1,47 @@
+{
+  "id": "BT00303",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Drugyelgang",
+    "en": "Drugyelgang",
+    "slug": "drugyelgang-bt00303"
+  },
+  "code": {
+    "id": "BT00303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT003",
+    "level": 1,
+    "name": {
+      "local": "དར་དཀར་ན་",
+      "en": "Dagana",
+      "slug": "dagana-bt003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "35001"
+  ],
+  "geo": {
+    "lat": "26.986",
+    "lon": "90.035"
+  },
+  "metadata": {},
+  "source": {}
+}

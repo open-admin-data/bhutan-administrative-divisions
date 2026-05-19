@@ -1,0 +1,64 @@
+# Pemagatshel — Bhutan Administrative Divisions
+
+> 11 sub-districts
+> Code: BT009
+> Coordinates: 26.981, 91.318
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Chhimung
+
+Code: BT00901, Coordinates: 27.039, 91.275
+
+
+### Chokhorling
+
+Code: BT00902, Coordinates: 26.854, 91.344
+
+
+### Chongshing
+
+Code: BT00903, Coordinates: 26.999, 91.344
+
+
+### Dechhenling
+
+Code: BT00904, Coordinates: 26.904, 91.242
+
+
+### Dungmin
+
+Code: BT00905, Coordinates: 26.981, 91.269
+
+
+### Khar
+
+Code: BT00906, Coordinates: 26.945, 91.406
+
+
+### Nanong
+
+Code: BT00907, Coordinates: 27.098, 91.464
+
+
+### Norbugang
+
+Code: BT00908, Coordinates: 26.832, 91.135
+
+
+### Shumer
+
+Code: BT00909, Coordinates: 27.089, 91.364
+
+
+### Yurung
+
+Code: BT00910, Coordinates: 27.042, 91.347
+
+
+### Zobel
+
+Code: BT00911, Coordinates: 27.065, 91.453
+
+

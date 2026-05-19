@@ -1,0 +1,29 @@
+{
+  "id": "BT018",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "རྩི་རང་",
+    "en": "Tsirang",
+    "slug": "tsirang-bt018"
+  },
+  "code": {
+    "id": "BT018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.005",
+    "lon": "90.156"
+  },
+  "metadata": {},
+  "source": {}
+}

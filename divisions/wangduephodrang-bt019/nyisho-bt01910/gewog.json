@@ -1,0 +1,47 @@
+{
+  "id": "BT01910",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Nyisho",
+    "en": "Nyisho",
+    "slug": "nyisho-bt01910"
+  },
+  "code": {
+    "id": "BT01910",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT019",
+    "level": 1,
+    "name": {
+      "local": "དབང་འདུས་ཕོ་བྲང",
+      "en": "Wangduephodrang",
+      "slug": "wangduephodrang-bt019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "14001"
+  ],
+  "geo": {
+    "lat": "27.567",
+    "lon": "90.102"
+  },
+  "metadata": {},
+  "source": {}
+}

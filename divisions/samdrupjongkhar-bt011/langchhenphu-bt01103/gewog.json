@@ -1,0 +1,47 @@
+{
+  "id": "BT01103",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Langchhenphu",
+    "en": "Langchhenphu",
+    "slug": "langchhenphu-bt01103"
+  },
+  "code": {
+    "id": "BT01103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT011",
+    "level": 1,
+    "name": {
+      "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+      "en": "Samdrupjongkhar",
+      "slug": "samdrupjongkhar-bt011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "41104"
+  ],
+  "geo": {
+    "lat": "26.919",
+    "lon": "92.005"
+  },
+  "metadata": {},
+  "source": {}
+}

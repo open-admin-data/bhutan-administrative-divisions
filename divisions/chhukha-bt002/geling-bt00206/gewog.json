@@ -1,0 +1,47 @@
+{
+  "id": "BT00206",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Geling",
+    "en": "Geling",
+    "slug": "geling-bt00206"
+  },
+  "code": {
+    "id": "BT00206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT002",
+    "level": 1,
+    "name": {
+      "local": "ཆུ་ཁ",
+      "en": "Chhukha",
+      "slug": "chhukha-bt002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "21101"
+  ],
+  "geo": {
+    "lat": "27.025",
+    "lon": "89.461"
+  },
+  "metadata": {},
+  "source": {}
+}

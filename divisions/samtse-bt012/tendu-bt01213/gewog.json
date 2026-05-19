@@ -1,0 +1,47 @@
+{
+  "id": "BT01213",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Tendu",
+    "en": "Tendu",
+    "slug": "tendu-bt01213"
+  },
+  "code": {
+    "id": "BT01213",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT012",
+    "level": 1,
+    "name": {
+      "local": "བསམ་རྩེ་",
+      "en": "Samtse",
+      "slug": "samtse-bt012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "22001"
+  ],
+  "geo": {
+    "lat": "27.157",
+    "lon": "88.921"
+  },
+  "metadata": {},
+  "source": {}
+}

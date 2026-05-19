@@ -1,0 +1,47 @@
+{
+  "id": "BT01915",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Thedtsho",
+    "en": "Thedtsho",
+    "slug": "thedtsho-bt01915"
+  },
+  "code": {
+    "id": "BT01915",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT019",
+    "level": 1,
+    "name": {
+      "local": "དབང་འདུས་ཕོ་བྲང",
+      "en": "Wangduephodrang",
+      "slug": "wangduephodrang-bt019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "14001"
+  ],
+  "geo": {
+    "lat": "27.49",
+    "lon": "89.894"
+  },
+  "metadata": {},
+  "source": {}
+}

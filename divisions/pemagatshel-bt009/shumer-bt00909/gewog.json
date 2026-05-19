@@ -1,0 +1,47 @@
+{
+  "id": "BT00909",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Shumer",
+    "en": "Shumer",
+    "slug": "shumer-bt00909"
+  },
+  "code": {
+    "id": "BT00909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT009",
+    "level": 1,
+    "name": {
+      "local": "པདྨ་དགའ་ཚལ་",
+      "en": "Pemagatshel",
+      "slug": "pemagatshel-bt009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "44001"
+  ],
+  "geo": {
+    "lat": "27.089",
+    "lon": "91.364"
+  },
+  "metadata": {},
+  "source": {}
+}

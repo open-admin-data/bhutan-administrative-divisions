@@ -1,0 +1,9637 @@
+[
+  {
+    "id": "BT01901",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Athang",
+      "en": "Athang",
+      "slug": "athang-bt01901"
+    },
+    "code": {
+      "id": "BT01901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.286",
+      "lon": "90.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00701",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Balam",
+      "en": "Balam",
+      "slug": "balam-bt00701"
+    },
+    "code": {
+      "id": "BT00701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.348",
+      "lon": "91.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01001",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bapisa",
+      "en": "Bapisa",
+      "slug": "bapisa-bt01001"
+    },
+    "code": {
+      "id": "BT01001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.504",
+      "lon": "89.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01201",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara-bt01201"
+    },
+    "code": {
+      "id": "BT01201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.193",
+      "lon": "88.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02001",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bardo",
+      "en": "Bardo",
+      "slug": "bardo-bt02001"
+    },
+    "code": {
+      "id": "BT02001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.102",
+      "lon": "90.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01501",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bartsham",
+      "en": "Bartsham",
+      "slug": "bartsham-bt01501"
+    },
+    "code": {
+      "id": "BT01501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.383",
+      "lon": "91.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01801",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Barzhong",
+      "en": "Barzhong",
+      "slug": "barzhong-bt01801"
+    },
+    "code": {
+      "id": "BT01801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.941",
+      "lon": "90.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01802",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Beteni",
+      "en": "Beteni",
+      "slug": "beteni-bt01802"
+    },
+    "code": {
+      "id": "BT01802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.902",
+      "lon": "90.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01301",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bhur",
+      "en": "Bhur",
+      "slug": "bhur-bt01301"
+    },
+    "code": {
+      "id": "BT01301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.926",
+      "lon": "90.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01502",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bidung",
+      "en": "Bidung",
+      "slug": "bidung-bt01502"
+    },
+    "code": {
+      "id": "BT01502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.391",
+      "lon": "91.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01202",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Biru",
+      "en": "Biru",
+      "slug": "biru-bt01202"
+    },
+    "code": {
+      "id": "BT01202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.057",
+      "lon": "88.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00201",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bjachho",
+      "en": "Bjachho",
+      "slug": "bjachho-bt00201"
+    },
+    "code": {
+      "id": "BT00201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.075",
+      "lon": "89.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01902",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bjena",
+      "en": "Bjena",
+      "slug": "bjena-bt01902"
+    },
+    "code": {
+      "id": "BT01902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.463",
+      "lon": "90.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00501",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bji",
+      "en": "Bji",
+      "slug": "bji-bt00501"
+    },
+    "code": {
+      "id": "BT00501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.451",
+      "lon": "89.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02002",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bjoka",
+      "en": "Bjoka",
+      "slug": "bjoka-bt02002"
+    },
+    "code": {
+      "id": "BT02002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "26.964",
+      "lon": "91.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00202",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo-bt00202"
+    },
+    "code": {
+      "id": "BT00202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.924",
+      "lon": "89.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01601",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bumdeling",
+      "en": "Bumdeling",
+      "slug": "bumdeling-bt01601"
+    },
+    "code": {
+      "id": "BT01601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.79",
+      "lon": "91.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01401",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chang",
+      "en": "Chang",
+      "slug": "chang-bt01401"
+    },
+    "code": {
+      "id": "BT01401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.44",
+      "lon": "89.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00203",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chapchha",
+      "en": "Chapchha",
+      "slug": "chapchha-bt00203"
+    },
+    "code": {
+      "id": "BT00203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.211",
+      "lon": "89.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01203",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chargharay",
+      "en": "Chargharay",
+      "slug": "chargharay-bt01203"
+    },
+    "code": {
+      "id": "BT01203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.995",
+      "lon": "88.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00703",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chaskhar",
+      "en": "Chaskhar",
+      "slug": "chaskhar-bt00703"
+    },
+    "code": {
+      "id": "BT00703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.254",
+      "lon": "91.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01204",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chengmari",
+      "en": "Chengmari",
+      "slug": "chengmari-bt01204"
+    },
+    "code": {
+      "id": "BT01204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.994",
+      "lon": "89.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00702",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhali",
+      "en": "Chhali",
+      "slug": "chhali-bt00702"
+    },
+    "code": {
+      "id": "BT00702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.295",
+      "lon": "91.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00901",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhimung",
+      "en": "Chhimung",
+      "slug": "chhimung-bt00901"
+    },
+    "code": {
+      "id": "BT00901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.039",
+      "lon": "91.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00101",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhoekhor",
+      "en": "Chhoekhor",
+      "slug": "chhoekhor-bt00101"
+    },
+    "code": {
+      "id": "BT00101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.781",
+      "lon": "90.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01002",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhubu",
+      "en": "Chhubu",
+      "slug": "chhubu-bt01002"
+    },
+    "code": {
+      "id": "BT01002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.663",
+      "lon": "89.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00102",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhume",
+      "en": "Chhume",
+      "slug": "chhume-bt00102"
+    },
+    "code": {
+      "id": "BT00102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.465",
+      "lon": "90.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01302",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhuzagang",
+      "en": "Chhuzagang",
+      "slug": "chhuzagang-bt01302"
+    },
+    "code": {
+      "id": "BT01302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.875",
+      "lon": "90.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00902",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chokhorling",
+      "en": "Chokhorling",
+      "slug": "chokhorling-bt00902"
+    },
+    "code": {
+      "id": "BT00902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.854",
+      "lon": "91.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00903",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chongshing",
+      "en": "Chongshing",
+      "slug": "chongshing-bt00903"
+    },
+    "code": {
+      "id": "BT00903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.999",
+      "lon": "91.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01903",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Daga",
+      "en": "Daga",
+      "slug": "daga-bt01903"
+    },
+    "code": {
+      "id": "BT01903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.228",
+      "lon": "89.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01402",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dagala",
+      "en": "Dagala",
+      "slug": "dagala-bt01402"
+    },
+    "code": {
+      "id": "BT01402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.288",
+      "lon": "89.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00204",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dala",
+      "en": "Dala",
+      "slug": "dala-bt00204"
+    },
+    "code": {
+      "id": "BT00204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.815",
+      "lon": "89.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01904",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dangchhu",
+      "en": "Dangchhu",
+      "slug": "dangchhu-bt01904"
+    },
+    "code": {
+      "id": "BT01904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.6",
+      "lon": "90.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00904",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dechhenling",
+      "en": "Dechhenling",
+      "slug": "dechhenling-bt00904"
+    },
+    "code": {
+      "id": "BT00904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.904",
+      "lon": "91.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01303",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dekiling",
+      "en": "Dekiling",
+      "slug": "dekiling-bt01303"
+    },
+    "code": {
+      "id": "BT01303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.935",
+      "lon": "90.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01205",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Denchhukha",
+      "en": "Denchhukha",
+      "slug": "denchhukha-bt01205"
+    },
+    "code": {
+      "id": "BT01205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.026",
+      "lon": "89.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00301",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Deorali",
+      "en": "Deorali",
+      "slug": "deorali-bt00301"
+    },
+    "code": {
+      "id": "BT00301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.79",
+      "lon": "89.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01101",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dewathang",
+      "en": "Dewathang",
+      "slug": "dewathang-bt01101"
+    },
+    "code": {
+      "id": "BT01101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.857",
+      "lon": "91.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01304",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Doban",
+      "en": "Doban",
+      "slug": "doban-bt01304"
+    },
+    "code": {
+      "id": "BT01304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "27.056",
+      "lon": "90.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00801",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Doga",
+      "en": "Doga",
+      "slug": "doga-bt00801"
+    },
+    "code": {
+      "id": "BT00801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.296",
+      "lon": "89.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00802",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dopshari",
+      "en": "Dopshari",
+      "slug": "dopshari-bt00802"
+    },
+    "code": {
+      "id": "BT00802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.457",
+      "lon": "89.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01206",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dorokha",
+      "en": "Dorokha",
+      "slug": "dorokha-bt01206"
+    },
+    "code": {
+      "id": "BT01206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.97",
+      "lon": "89.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00302",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dorona",
+      "en": "Dorona",
+      "slug": "dorona-bt00302"
+    },
+    "code": {
+      "id": "BT00302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.874",
+      "lon": "89.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00803",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Doteng",
+      "en": "Doteng",
+      "slug": "doteng-bt00803"
+    },
+    "code": {
+      "id": "BT00803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.558",
+      "lon": "89.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01701",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dragteng",
+      "en": "Dragteng",
+      "slug": "dragteng-bt01701"
+    },
+    "code": {
+      "id": "BT01701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT017",
+        "level": 1,
+        "name": {
+          "local": "ཀྲོང་གསར་",
+          "en": "Trongsa",
+          "slug": "trongsa-bt017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33001"
+    ],
+    "geo": {
+      "lat": "27.427",
+      "lon": "90.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00704",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Drametse",
+      "en": "Drametse",
+      "slug": "drametse-bt00704"
+    },
+    "code": {
+      "id": "BT00704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.347",
+      "lon": "91.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00705",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Drepung",
+      "en": "Drepung",
+      "slug": "drepung-bt00705"
+    },
+    "code": {
+      "id": "BT00705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.207",
+      "lon": "91.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00303",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Drugyelgang",
+      "en": "Drugyelgang",
+      "slug": "drugyelgang-bt00303"
+    },
+    "code": {
+      "id": "BT00303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.986",
+      "lon": "90.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01803",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dunglegang",
+      "en": "Dunglegang",
+      "slug": "dunglegang-bt01803"
+    },
+    "code": {
+      "id": "BT01803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.012",
+      "lon": "90.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00905",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dungmin",
+      "en": "Dungmin",
+      "slug": "dungmin-bt00905"
+    },
+    "code": {
+      "id": "BT00905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.981",
+      "lon": "91.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00205",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dungna",
+      "en": "Dungna",
+      "slug": "dungna-bt00205"
+    },
+    "code": {
+      "id": "BT00205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.082",
+      "lon": "89.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01207",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dungtoe",
+      "en": "Dungtoe",
+      "slug": "dungtoe-bt01207"
+    },
+    "code": {
+      "id": "BT01207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.049",
+      "lon": "89.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01003",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dzoma",
+      "en": "Dzoma",
+      "slug": "dzoma-bt01003"
+    },
+    "code": {
+      "id": "BT01003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.582",
+      "lon": "89.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00502",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gakiling",
+      "en": "Gakiling",
+      "slug": "gakiling-bt00502"
+    },
+    "code": {
+      "id": "BT00502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.137",
+      "lon": "89.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01905",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gangte",
+      "en": "Gangte",
+      "slug": "gangte-bt01905"
+    },
+    "code": {
+      "id": "BT01905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.468",
+      "lon": "90.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00601",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gangzur",
+      "en": "Gangzur",
+      "slug": "gangzur-bt00601"
+    },
+    "code": {
+      "id": "BT00601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.723",
+      "lon": "91.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01906",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gasetsho Gom",
+      "en": "Gasetsho Gom",
+      "slug": "gasetsho-gom-bt01906"
+    },
+    "code": {
+      "id": "BT01906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.432",
+      "lon": "89.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01907",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gasetsho Om",
+      "en": "Gasetsho Om",
+      "slug": "gasetsho-om-bt01907"
+    },
+    "code": {
+      "id": "BT01907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.343",
+      "lon": "89.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01305",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gelephu",
+      "en": "Gelephu",
+      "slug": "gelephu-bt01305"
+    },
+    "code": {
+      "id": "BT01305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31101"
+    ],
+    "geo": {
+      "lat": "26.911",
+      "lon": "90.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00206",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Geling",
+      "en": "Geling",
+      "slug": "geling-bt00206"
+    },
+    "code": {
+      "id": "BT00206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.025",
+      "lon": "89.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01403",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Genye",
+      "en": "Genye",
+      "slug": "genye-bt01403"
+    },
+    "code": {
+      "id": "BT01403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.303",
+      "lon": "89.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00304",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gesarling",
+      "en": "Gesarling",
+      "slug": "gesarling-bt00304"
+    },
+    "code": {
+      "id": "BT00304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.922",
+      "lon": "89.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00207",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Getana",
+      "en": "Getana",
+      "slug": "getana-bt00207"
+    },
+    "code": {
+      "id": "BT00207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.919",
+      "lon": "89.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00401",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Goenkhame",
+      "en": "Goenkhame",
+      "slug": "goenkhame-bt00401"
+    },
+    "code": {
+      "id": "BT00401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "27.795",
+      "lon": "89.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00402",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Goenkhatoe",
+      "en": "Goenkhatoe",
+      "slug": "goenkhatoe-bt00402"
+    },
+    "code": {
+      "id": "BT00402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "27.867",
+      "lon": "89.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01004",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Goenshari",
+      "en": "Goenshari",
+      "slug": "goenshari-bt01004"
+    },
+    "code": {
+      "id": "BT01004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.719",
+      "lon": "89.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01102",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gomdar",
+      "en": "Gomdar",
+      "slug": "gomdar-bt01102"
+    },
+    "code": {
+      "id": "BT01102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "27.001",
+      "lon": "91.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00706",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gongdue",
+      "en": "Gongdue",
+      "slug": "gongdue-bt00706"
+    },
+    "code": {
+      "id": "BT00706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.034",
+      "lon": "91.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01804",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gosarling",
+      "en": "Gosarling",
+      "slug": "gosarling-bt01804"
+    },
+    "code": {
+      "id": "BT01804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.029",
+      "lon": "90.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00305",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gozhi",
+      "en": "Gozhi",
+      "slug": "gozhi-bt00305"
+    },
+    "code": {
+      "id": "BT00305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.937",
+      "lon": "89.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02003",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gozhing",
+      "en": "Gozhing",
+      "slug": "gozhing-bt02003"
+    },
+    "code": {
+      "id": "BT02003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "26.963",
+      "lon": "90.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01005",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Guma",
+      "en": "Guma",
+      "slug": "guma-bt01005"
+    },
+    "code": {
+      "id": "BT01005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.577",
+      "lon": "89.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01306",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Hiley",
+      "en": "Hiley",
+      "slug": "hiley-bt01306"
+    },
+    "code": {
+      "id": "BT01306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.934",
+      "lon": "90.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00804",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Hungrel",
+      "en": "Hungrel",
+      "slug": "hungrel-bt00804"
+    },
+    "code": {
+      "id": "BT00804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.417",
+      "lon": "89.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01602",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jamkhar",
+      "en": "Jamkhar",
+      "slug": "jamkhar-bt01602"
+    },
+    "code": {
+      "id": "BT01602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.408",
+      "lon": "91.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01105",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jangchhubling",
+      "en": "Jangchhubling",
+      "slug": "jangchhubling-bt01105"
+    },
+    "code": {
+      "id": "BT01105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.935",
+      "lon": "91.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00602",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jaray",
+      "en": "Jaray",
+      "slug": "jaray-bt00602"
+    },
+    "code": {
+      "id": "BT00602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.454",
+      "lon": "91.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01307",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jigmichhoeling",
+      "en": "Jigmichhoeling",
+      "slug": "jigmichhoeling-bt01307"
+    },
+    "code": {
+      "id": "BT01307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "27.083",
+      "lon": "90.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00707",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jurmey",
+      "en": "Jurmey",
+      "slug": "jurmey-bt00707"
+    },
+    "code": {
+      "id": "BT00707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.093",
+      "lon": "91.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01006",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kabjisa",
+      "en": "Kabjisa",
+      "slug": "kabjisa-bt01006"
+    },
+    "code": {
+      "id": "BT01006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.643",
+      "lon": "89.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00306",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kalidzingkha",
+      "en": "Kalidzingkha",
+      "slug": "kalidzingkha-bt00306"
+    },
+    "code": {
+      "id": "BT00306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21104"
+    ],
+    "geo": {
+      "lat": "27",
+      "lon": "89.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01503",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kanglung",
+      "en": "Kanglung",
+      "slug": "kanglung-bt01503"
+    },
+    "code": {
+      "id": "BT01503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42002"
+    ],
+    "geo": {
+      "lat": "27.281",
+      "lon": "91.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01504",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kangpara",
+      "en": "Kangpara",
+      "slug": "kangpara-bt01504"
+    },
+    "code": {
+      "id": "BT01504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42002"
+    ],
+    "geo": {
+      "lat": "27.164",
+      "lon": "91.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00503",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Katsho",
+      "en": "Katsho",
+      "slug": "katsho-bt00503"
+    },
+    "code": {
+      "id": "BT00503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.406",
+      "lon": "89.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01404",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kawang",
+      "en": "Kawang",
+      "slug": "kawang-bt01404"
+    },
+    "code": {
+      "id": "BT01404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.573",
+      "lon": "89.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01908",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kazhi",
+      "en": "Kazhi",
+      "slug": "kazhi-bt01908"
+    },
+    "code": {
+      "id": "BT01908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.757",
+      "lon": "90.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00708",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kengkhar",
+      "en": "Kengkhar",
+      "slug": "kengkhar-bt00708"
+    },
+    "code": {
+      "id": "BT00708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.128",
+      "lon": "91.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01505",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khaling",
+      "en": "Khaling",
+      "slug": "khaling-bt01505"
+    },
+    "code": {
+      "id": "BT01505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.177",
+      "lon": "91.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01603",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khamdang",
+      "en": "Khamdang",
+      "slug": "khamdang-bt01603"
+    },
+    "code": {
+      "id": "BT01603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.489",
+      "lon": "91.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00906",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khar",
+      "en": "Khar",
+      "slug": "khar-bt00906"
+    },
+    "code": {
+      "id": "BT00906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.945",
+      "lon": "91.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00307",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khipisa",
+      "en": "Khipisa",
+      "slug": "khipisa-bt00307"
+    },
+    "code": {
+      "id": "BT00307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.038",
+      "lon": "89.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00603",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khoma",
+      "en": "Khoma",
+      "slug": "khoma-bt00603"
+    },
+    "code": {
+      "id": "BT00603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.836",
+      "lon": "91.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01805",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kikorthang",
+      "en": "Kikorthang",
+      "slug": "kikorthang-bt01805"
+    },
+    "code": {
+      "id": "BT01805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.002",
+      "lon": "90.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01702",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Korphu",
+      "en": "Korphu",
+      "slug": "korphu-bt01702"
+    },
+    "code": {
+      "id": "BT01702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT017",
+        "level": 1,
+        "name": {
+          "local": "ཀྲོང་གསར་",
+          "en": "Trongsa",
+          "slug": "trongsa-bt017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33001"
+    ],
+    "geo": {
+      "lat": "27.213",
+      "lon": "90.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00604",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kurtoe",
+      "en": "Kurtoe",
+      "slug": "kurtoe-bt00604"
+    },
+    "code": {
+      "id": "BT00604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.926",
+      "lon": "91.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00308",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lajab",
+      "en": "Lajab",
+      "slug": "lajab-bt00308"
+    },
+    "code": {
+      "id": "BT00308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.095",
+      "lon": "90.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00805",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lamgong",
+      "en": "Lamgong",
+      "slug": "lamgong-bt00805"
+    },
+    "code": {
+      "id": "BT00805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.439",
+      "lon": "89.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01103",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Langchhenphu",
+      "en": "Langchhenphu",
+      "slug": "langchhenphu-bt01103"
+    },
+    "code": {
+      "id": "BT01103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41104"
+    ],
+    "geo": {
+      "lat": "26.919",
+      "lon": "92.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01703",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Langthil",
+      "en": "Langthil",
+      "slug": "langthil-bt01703"
+    },
+    "code": {
+      "id": "BT01703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT017",
+        "level": 1,
+        "name": {
+          "local": "ཀྲོང་གསར་",
+          "en": "Trongsa",
+          "slug": "trongsa-bt017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33001"
+    ],
+    "geo": {
+      "lat": "27.339",
+      "lon": "90.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01110",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lauri",
+      "en": "Lauri",
+      "slug": "lauri-bt01110"
+    },
+    "code": {
+      "id": "BT01110",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "27.142",
+      "lon": "91.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00403",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Laya",
+      "en": "Laya",
+      "slug": "laya-bt00403"
+    },
+    "code": {
+      "id": "BT00403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "28.07",
+      "lon": "89.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00309",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lhamoizingkha",
+      "en": "Lhamoizingkha",
+      "slug": "lhamoizingkha-bt00309"
+    },
+    "code": {
+      "id": "BT00309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21104"
+    ],
+    "geo": {
+      "lat": "26.759",
+      "lon": "89.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01007",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lingmukha",
+      "en": "Lingmukha",
+      "slug": "lingmukha-bt01007"
+    },
+    "code": {
+      "id": "BT01007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.547",
+      "lon": "89.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01405",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lingzhi",
+      "en": "Lingzhi",
+      "slug": "lingzhi-bt01405"
+    },
+    "code": {
+      "id": "BT01405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.839",
+      "lon": "89.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00208",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Logchina",
+      "en": "Logchina",
+      "slug": "logchina-bt00208"
+    },
+    "code": {
+      "id": "BT00208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.957",
+      "lon": "89.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01506",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lumang",
+      "en": "Lumang",
+      "slug": "lumang-bt01506"
+    },
+    "code": {
+      "id": "BT01506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42004"
+    ],
+    "geo": {
+      "lat": "27.126",
+      "lon": "91.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00404",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lunana",
+      "en": "Lunana",
+      "slug": "lunana-bt00404"
+    },
+    "code": {
+      "id": "BT00404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "27.974",
+      "lon": "90.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00806",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lungnyi",
+      "en": "Lungnyi",
+      "slug": "lungnyi-bt00806"
+    },
+    "code": {
+      "id": "BT00806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.38",
+      "lon": "89.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01104",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Martshala",
+      "en": "Martshala",
+      "slug": "martshala-bt01104"
+    },
+    "code": {
+      "id": "BT01104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.99",
+      "lon": "91.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00605",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Menbi",
+      "en": "Menbi",
+      "slug": "menbi-bt00605"
+    },
+    "code": {
+      "id": "BT00605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.598",
+      "lon": "91.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01806",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Mendrelgang",
+      "en": "Mendrelgang",
+      "slug": "mendrelgang-bt01806"
+    },
+    "code": {
+      "id": "BT01806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.956",
+      "lon": "90.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01507",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Merak",
+      "en": "Merak",
+      "slug": "merak-bt01507"
+    },
+    "code": {
+      "id": "BT01507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.249",
+      "lon": "91.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00209",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Metap",
+      "en": "Metap",
+      "slug": "metap-bt00209"
+    },
+    "code": {
+      "id": "BT00209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.115",
+      "lon": "89.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00606",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Metsho",
+      "en": "Metsho",
+      "slug": "metsho-bt00606"
+    },
+    "code": {
+      "id": "BT00606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.547",
+      "lon": "91.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01406",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Mewang",
+      "en": "Mewang",
+      "slug": "mewang-bt01406"
+    },
+    "code": {
+      "id": "BT01406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.441",
+      "lon": "89.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00607",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Minjay",
+      "en": "Minjay",
+      "slug": "minjay-bt00607"
+    },
+    "code": {
+      "id": "BT00607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.584",
+      "lon": "91.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00709",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Mongar",
+      "en": "Mongar",
+      "slug": "mongar-bt00709"
+    },
+    "code": {
+      "id": "BT00709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.268",
+      "lon": "91.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01909",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nahi",
+      "en": "Nahi",
+      "slug": "nahi-bt01909"
+    },
+    "code": {
+      "id": "BT01909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.444",
+      "lon": "89.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00807",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Naja",
+      "en": "Naja",
+      "slug": "naja-bt00807"
+    },
+    "code": {
+      "id": "BT00807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.254",
+      "lon": "89.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01208",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Namgyel Chhoeling",
+      "en": "Namgyel Chhoeling",
+      "slug": "namgyel-chhoeling-bt01208"
+    },
+    "code": {
+      "id": "BT01208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.065",
+      "lon": "88.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02004",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nangkor",
+      "en": "Nangkor",
+      "slug": "nangkor-bt02004"
+    },
+    "code": {
+      "id": "BT02004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.203",
+      "lon": "90.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00907",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nanong",
+      "en": "Nanong",
+      "slug": "nanong-bt00907"
+    },
+    "code": {
+      "id": "BT00907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.098",
+      "lon": "91.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00710",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Narang",
+      "en": "Narang",
+      "slug": "narang-bt00710"
+    },
+    "code": {
+      "id": "BT00710",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.301",
+      "lon": "91.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01407",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Naro",
+      "en": "Naro",
+      "slug": "naro-bt01407"
+    },
+    "code": {
+      "id": "BT01407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.679",
+      "lon": "89.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02005",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ngangla",
+      "en": "Ngangla",
+      "slug": "ngangla-bt02005"
+    },
+    "code": {
+      "id": "BT02005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34103"
+    ],
+    "geo": {
+      "lat": "26.895",
+      "lon": "90.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00711",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ngatshang",
+      "en": "Ngatshang",
+      "slug": "ngatshang-bt00711"
+    },
+    "code": {
+      "id": "BT00711",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.328",
+      "lon": "91.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00310",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nichula",
+      "en": "Nichula",
+      "slug": "nichula-bt00310"
+    },
+    "code": {
+      "id": "BT00310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.796",
+      "lon": "89.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00908",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Norbugang",
+      "en": "Norbugang",
+      "slug": "norbugang-bt00908"
+    },
+    "code": {
+      "id": "BT00908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "26.832",
+      "lon": "91.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01704",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nubi",
+      "en": "Nubi",
+      "slug": "nubi-bt01704"
+    },
+    "code": {
+      "id": "BT01704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT017",
+        "level": 1,
+        "name": {
+          "local": "ཀྲོང་གསར་",
+          "en": "Trongsa",
+          "slug": "trongsa-bt017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33001"
+    ],
+    "geo": {
+      "lat": "27.625",
+      "lon": "90.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01910",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nyisho",
+      "en": "Nyisho",
+      "slug": "nyisho-bt01910"
+    },
+    "code": {
+      "id": "BT01910",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.567",
+      "lon": "90.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01209",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Pagli",
+      "en": "Pagli",
+      "slug": "pagli-bt01209"
+    },
+    "code": {
+      "id": "BT01209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22002"
+    ],
+    "geo": {
+      "lat": "26.85",
+      "lon": "89.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02006",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Pangkhar",
+      "en": "Pangkhar",
+      "slug": "pangkhar-bt02006"
+    },
+    "code": {
+      "id": "BT02006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "26.899",
+      "lon": "90.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01807",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Patakla",
+      "en": "Patakla",
+      "slug": "patakla-bt01807"
+    },
+    "code": {
+      "id": "BT01807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.135",
+      "lon": "90.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01106",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Pemathang",
+      "en": "Pemathang",
+      "slug": "pemathang-bt01106"
+    },
+    "code": {
+      "id": "BT01106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.895",
+      "lon": "91.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01911",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phangyuel",
+      "en": "Phangyuel",
+      "slug": "phangyuel-bt01911"
+    },
+    "code": {
+      "id": "BT01911",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.528",
+      "lon": "89.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01912",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phobji",
+      "en": "Phobji",
+      "slug": "phobji-bt01912"
+    },
+    "code": {
+      "id": "BT01912",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.427",
+      "lon": "90.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01508",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phongme",
+      "en": "Phongme",
+      "slug": "phongme-bt01508"
+    },
+    "code": {
+      "id": "BT01508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.408",
+      "lon": "91.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01808",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phuentenchhu",
+      "en": "Phuentenchhu",
+      "slug": "phuentenchhu-bt01808"
+    },
+    "code": {
+      "id": "BT01808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.109",
+      "lon": "90.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00210",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phuentsholing",
+      "en": "Phuentsholing",
+      "slug": "phuentsholing-bt00210"
+    },
+    "code": {
+      "id": "BT00210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.918",
+      "lon": "89.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01107",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phuntsthothang",
+      "en": "Phuntsthothang",
+      "slug": "phuntsthothang-bt01107"
+    },
+    "code": {
+      "id": "BT01107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.867",
+      "lon": "91.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01509",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Radi",
+      "en": "Radi",
+      "slug": "radi-bt01509"
+    },
+    "code": {
+      "id": "BT01509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.357",
+      "lon": "91.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01604",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ramjar",
+      "en": "Ramjar",
+      "slug": "ramjar-bt01604"
+    },
+    "code": {
+      "id": "BT01604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.409",
+      "lon": "91.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01809",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Rangthangling",
+      "en": "Rangthangling",
+      "slug": "rangthangling-bt01809"
+    },
+    "code": {
+      "id": "BT01809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.982",
+      "lon": "90.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01913",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ruepisa",
+      "en": "Ruepisa",
+      "slug": "ruepisa-bt01913"
+    },
+    "code": {
+      "id": "BT01913",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.397",
+      "lon": "89.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01510",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sakteng",
+      "en": "Sakteng",
+      "slug": "sakteng-bt01510"
+    },
+    "code": {
+      "id": "BT01510",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.381",
+      "lon": "91.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00712",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Saleng",
+      "en": "Saleng",
+      "slug": "saleng-bt00712"
+    },
+    "code": {
+      "id": "BT00712",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.254",
+      "lon": "91.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00504",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sama",
+      "en": "Sama",
+      "slug": "sama-bt00504"
+    },
+    "code": {
+      "id": "BT00504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.296",
+      "lon": "89.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01511",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samkhar",
+      "en": "Samkhar",
+      "slug": "samkhar-bt01511"
+    },
+    "code": {
+      "id": "BT01511",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.298",
+      "lon": "91.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00211",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samphelling",
+      "en": "Samphelling",
+      "slug": "samphelling-bt00211"
+    },
+    "code": {
+      "id": "BT00211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.851",
+      "lon": "89.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01108",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samrang",
+      "en": "Samrang",
+      "slug": "samrang-bt01108"
+    },
+    "code": {
+      "id": "BT01108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.908",
+      "lon": "91.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01210",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samtse",
+      "en": "Samtse",
+      "slug": "samtse-bt01210"
+    },
+    "code": {
+      "id": "BT01210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.92",
+      "lon": "89.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01308",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Senge",
+      "en": "Senge",
+      "slug": "senge-bt01308"
+    },
+    "code": {
+      "id": "BT01308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.835",
+      "lon": "90.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01914",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sephu",
+      "en": "Sephu",
+      "slug": "sephu-bt01914"
+    },
+    "code": {
+      "id": "BT01914",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.763",
+      "lon": "90.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01109",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Serthig",
+      "en": "Serthig",
+      "slug": "serthig-bt01109"
+    },
+    "code": {
+      "id": "BT01109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "27.007",
+      "lon": "91.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00808",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shapa",
+      "en": "Shapa",
+      "slug": "shapa-bt00808"
+    },
+    "code": {
+      "id": "BT00808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.36",
+      "lon": "89.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01810",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shemjong",
+      "en": "Shemjong",
+      "slug": "shemjong-bt01810"
+    },
+    "code": {
+      "id": "BT01810",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.038",
+      "lon": "90.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01008",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shengabjimi",
+      "en": "Shengabjimi",
+      "slug": "shengabjimi-bt01008"
+    },
+    "code": {
+      "id": "BT01008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.607",
+      "lon": "89.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00713",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shermung",
+      "en": "Shermung",
+      "slug": "shermung-bt00713"
+    },
+    "code": {
+      "id": "BT00713",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.466",
+      "lon": "91.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01309",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sherzhong",
+      "en": "Sherzhong",
+      "slug": "sherzhong-bt01309"
+    },
+    "code": {
+      "id": "BT01309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.924",
+      "lon": "90.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02007",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shingkhar",
+      "en": "Shingkhar",
+      "slug": "shingkhar-bt02007"
+    },
+    "code": {
+      "id": "BT02007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.213",
+      "lon": "90.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01310",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shompangkha",
+      "en": "Shompangkha",
+      "slug": "shompangkha-bt01310"
+    },
+    "code": {
+      "id": "BT01310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.878",
+      "lon": "90.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01512",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shongphu",
+      "en": "Shongphu",
+      "slug": "shongphu-bt01512"
+    },
+    "code": {
+      "id": "BT01512",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.301",
+      "lon": "91.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00909",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shumer",
+      "en": "Shumer",
+      "slug": "shumer-bt00909"
+    },
+    "code": {
+      "id": "BT00909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.089",
+      "lon": "91.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00714",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Silambi",
+      "en": "Silambi",
+      "slug": "silambi-bt00714"
+    },
+    "code": {
+      "id": "BT00714",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.121",
+      "lon": "91.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01211",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sipsu",
+      "en": "Sipsu",
+      "slug": "sipsu-bt01211"
+    },
+    "code": {
+      "id": "BT01211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.002",
+      "lon": "88.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01408",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Soe",
+      "en": "Soe",
+      "slug": "soe-bt01408"
+    },
+    "code": {
+      "id": "BT01408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT014",
+        "level": 1,
+        "name": {
+          "local": "ཐིམ་ཕུ་",
+          "en": "Thimphu",
+          "slug": "thimphu-bt014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": "27.786",
+      "lon": "89.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00505",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sombey",
+      "en": "Sombey",
+      "slug": "sombey-bt00505"
+    },
+    "code": {
+      "id": "BT00505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.205",
+      "lon": "89.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01212",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tading",
+      "en": "Tading",
+      "slug": "tading-bt01212"
+    },
+    "code": {
+      "id": "BT01212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.881",
+      "lon": "89.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01311",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Taklai",
+      "en": "Taklai",
+      "slug": "taklai-bt01311"
+    },
+    "code": {
+      "id": "BT01311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.809",
+      "lon": "90.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01009",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Talo",
+      "en": "Talo",
+      "slug": "talo-bt01009"
+    },
+    "code": {
+      "id": "BT01009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.557",
+      "lon": "89.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00103",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tang",
+      "en": "Tang",
+      "slug": "tang-bt00103"
+    },
+    "code": {
+      "id": "BT00103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.681",
+      "lon": "90.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01705",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tangsibji",
+      "en": "Tangsibji",
+      "slug": "tangsibji-bt01705"
+    },
+    "code": {
+      "id": "BT01705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT017",
+        "level": 1,
+        "name": {
+          "local": "ཀྲོང་གསར་",
+          "en": "Trongsa",
+          "slug": "trongsa-bt017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33001"
+    ],
+    "geo": {
+      "lat": "27.406",
+      "lon": "90.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01213",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tendu",
+      "en": "Tendu",
+      "slug": "tendu-bt01213"
+    },
+    "code": {
+      "id": "BT01213",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.157",
+      "lon": "88.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00715",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Thangrong",
+      "en": "Thangrong",
+      "slug": "thangrong-bt00715"
+    },
+    "code": {
+      "id": "BT00715",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.203",
+      "lon": "91.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01915",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Thedtsho",
+      "en": "Thedtsho",
+      "slug": "thedtsho-bt01915"
+    },
+    "code": {
+      "id": "BT01915",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.49",
+      "lon": "89.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01513",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Thrimshing",
+      "en": "Thrimshing",
+      "slug": "thrimshing-bt01513"
+    },
+    "code": {
+      "id": "BT01513",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.098",
+      "lon": "91.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01010",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Toepisa",
+      "en": "Toepisa",
+      "slug": "toepisa-bt01010"
+    },
+    "code": {
+      "id": "BT01010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.524",
+      "lon": "89.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01605",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Toetsho",
+      "en": "Toetsho",
+      "slug": "toetsho-bt01605"
+    },
+    "code": {
+      "id": "BT01605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.503",
+      "lon": "91.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01011",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Toewang",
+      "en": "Toewang",
+      "slug": "toewang-bt01011"
+    },
+    "code": {
+      "id": "BT01011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.737",
+      "lon": "89.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01606",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tomzhangtshen",
+      "en": "Tomzhangtshen",
+      "slug": "tomzhangtshen-bt01606"
+    },
+    "code": {
+      "id": "BT01606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.451",
+      "lon": "91.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00311",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Trashiding",
+      "en": "Trashiding",
+      "slug": "trashiding-bt00311"
+    },
+    "code": {
+      "id": "BT00311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.91",
+      "lon": "89.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01608",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Trashiyangtse",
+      "en": "Trashiyangtse",
+      "slug": "trashiyangtse-bt01608"
+    },
+    "code": {
+      "id": "BT01608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.563",
+      "lon": "91.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02008",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Trong",
+      "en": "Trong",
+      "slug": "trong-bt02008"
+    },
+    "code": {
+      "id": "BT02008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.159",
+      "lon": "90.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00716",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsakaling",
+      "en": "Tsakaling",
+      "slug": "tsakaling-bt00716"
+    },
+    "code": {
+      "id": "BT00716",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.379",
+      "lon": "91.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00717",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsamang",
+      "en": "Tsamang",
+      "slug": "tsamang-bt00717"
+    },
+    "code": {
+      "id": "BT00717",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT007",
+        "level": 1,
+        "name": {
+          "local": "མོང་སྒར",
+          "en": "Monggar",
+          "slug": "monggar-bt007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "27.368",
+      "lon": "91.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00312",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsangkha",
+      "en": "Tsangkha",
+      "slug": "tsangkha-bt00312"
+    },
+    "code": {
+      "id": "BT00312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.037",
+      "lon": "90.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00313",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsendagang",
+      "en": "Tsendagang",
+      "slug": "tsendagang-bt00313"
+    },
+    "code": {
+      "id": "BT00313",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.88",
+      "lon": "89.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00608",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsenkhar",
+      "en": "Tsenkhar",
+      "slug": "tsenkhar-bt00608"
+    },
+    "code": {
+      "id": "BT00608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT006",
+        "level": 1,
+        "name": {
+          "local": "ལྷུན་རྩེ",
+          "en": "Lhuentse",
+          "slug": "lhuentse-bt006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "27.467",
+      "lon": "91.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00809",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsento",
+      "en": "Tsento",
+      "slug": "tsento-bt00809"
+    },
+    "code": {
+      "id": "BT00809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.609",
+      "lon": "89.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00314",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tseza",
+      "en": "Tseza",
+      "slug": "tseza-bt00314"
+    },
+    "code": {
+      "id": "BT00314",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.158",
+      "lon": "89.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01811",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsholingkhor",
+      "en": "Tsholingkhor",
+      "slug": "tsholingkhor-bt01811"
+    },
+    "code": {
+      "id": "BT01811",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.012",
+      "lon": "90.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01812",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsirangtoe",
+      "en": "Tsirangtoe",
+      "slug": "tsirangtoe-bt01812"
+    },
+    "code": {
+      "id": "BT01812",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.057",
+      "lon": "90.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01514",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Udzorong",
+      "en": "Udzorong",
+      "slug": "udzorong-bt01514"
+    },
+    "code": {
+      "id": "BT01514",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.228",
+      "lon": "91.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00506",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Uesu",
+      "en": "Uesu",
+      "slug": "uesu-bt00506"
+    },
+    "code": {
+      "id": "BT00506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.345",
+      "lon": "89.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01215",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ugentse",
+      "en": "Ugentse",
+      "slug": "ugentse-bt01215"
+    },
+    "code": {
+      "id": "BT01215",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.958",
+      "lon": "89.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01312",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Umling",
+      "en": "Umling",
+      "slug": "umling-bt01312"
+    },
+    "code": {
+      "id": "BT01312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.907",
+      "lon": "90.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00104",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ura",
+      "en": "Ura",
+      "slug": "ura-bt00104"
+    },
+    "code": {
+      "id": "BT00104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT001",
+        "level": 1,
+        "name": {
+          "local": "བུམ་ཐང་",
+          "en": "Bumthang",
+          "slug": "bumthang-bt001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32001"
+    ],
+    "geo": {
+      "lat": "27.459",
+      "lon": "90.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00810",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Wangchang",
+      "en": "Wangchang",
+      "slug": "wangchang-bt00810"
+    },
+    "code": {
+      "id": "BT00810",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT008",
+        "level": 1,
+        "name": {
+          "local": "སྤ་རོ་",
+          "en": "Paro",
+          "slug": "paro-bt008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "27.411",
+      "lon": "89.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01111",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Wangphu",
+      "en": "Wangphu",
+      "slug": "wangphu-bt01111"
+    },
+    "code": {
+      "id": "BT01111",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.976",
+      "lon": "91.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01607",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yalang",
+      "en": "Yalang",
+      "slug": "yalang-bt01607"
+    },
+    "code": {
+      "id": "BT01607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT016",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་གཡང་རྩེ",
+          "en": "Yangtse",
+          "slug": "yangtse-bt016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "27.462",
+      "lon": "91.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01515",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yangnyer",
+      "en": "Yangnyer",
+      "slug": "yangnyer-bt01515"
+    },
+    "code": {
+      "id": "BT01515",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.364",
+      "lon": "91.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01214",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yoeseltse",
+      "en": "Yoeseltse",
+      "slug": "yoeseltse-bt01214"
+    },
+    "code": {
+      "id": "BT01214",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.965",
+      "lon": "88.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00910",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yurung",
+      "en": "Yurung",
+      "slug": "yurung-bt00910"
+    },
+    "code": {
+      "id": "BT00910",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.042",
+      "lon": "91.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00911",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Zobel",
+      "en": "Zobel",
+      "slug": "zobel-bt00911"
+    },
+    "code": {
+      "id": "BT00911",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT009",
+        "level": 1,
+        "name": {
+          "local": "པདྨ་དགའ་ཚལ་",
+          "en": "Pemagatshel",
+          "slug": "pemagatshel-bt009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "27.065",
+      "lon": "91.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

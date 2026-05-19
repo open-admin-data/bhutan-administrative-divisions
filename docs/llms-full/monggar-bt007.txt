@@ -1,0 +1,94 @@
+# Monggar — Bhutan Administrative Divisions
+
+> 17 sub-districts
+> Code: BT007
+> Coordinates: 27.269, 91.212
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Balam
+
+Code: BT00701, Coordinates: 27.348, 91.409
+
+
+### Chaskhar
+
+Code: BT00703, Coordinates: 27.254, 91.362
+
+
+### Chhali
+
+Code: BT00702, Coordinates: 27.295, 91.227
+
+
+### Drametse
+
+Code: BT00704, Coordinates: 27.347, 91.468
+
+
+### Drepung
+
+Code: BT00705, Coordinates: 27.207, 91.256
+
+
+### Gongdue
+
+Code: BT00706, Coordinates: 27.034, 91.156
+
+
+### Jurmey
+
+Code: BT00707, Coordinates: 27.093, 91.245
+
+
+### Kengkhar
+
+Code: BT00708, Coordinates: 27.128, 91.319
+
+
+### Mongar
+
+Code: BT00709, Coordinates: 27.268, 91.256
+
+
+### Narang
+
+Code: BT00710, Coordinates: 27.301, 91.432
+
+
+### Ngatshang
+
+Code: BT00711, Coordinates: 27.328, 91.316
+
+
+### Saleng
+
+Code: BT00712, Coordinates: 27.254, 91.105
+
+
+### Shermung
+
+Code: BT00713, Coordinates: 27.466, 91.367
+
+
+### Silambi
+
+Code: BT00714, Coordinates: 27.121, 91.071
+
+
+### Thangrong
+
+Code: BT00715, Coordinates: 27.203, 91.344
+
+
+### Tsakaling
+
+Code: BT00716, Coordinates: 27.379, 91.248
+
+
+### Tsamang
+
+Code: BT00717, Coordinates: 27.368, 91.151
+
+

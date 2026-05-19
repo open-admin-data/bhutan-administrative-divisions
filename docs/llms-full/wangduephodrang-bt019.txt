@@ -1,0 +1,84 @@
+# Wangduephodrang — Bhutan Administrative Divisions
+
+> 15 sub-districts
+> Code: BT019
+> Coordinates: 27.583, 90.154
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Athang
+
+Code: BT01901, Coordinates: 27.286, 90.182
+
+
+### Bjena
+
+Code: BT01902, Coordinates: 27.463, 90.027
+
+
+### Daga
+
+Code: BT01903, Coordinates: 27.228, 89.985
+
+
+### Dangchhu
+
+Code: BT01904, Coordinates: 27.6, 90.213
+
+
+### Gangte
+
+Code: BT01905, Coordinates: 27.468, 90.139
+
+
+### Gasetsho Gom
+
+Code: BT01906, Coordinates: 27.432, 89.879
+
+
+### Gasetsho Om
+
+Code: BT01907, Coordinates: 27.343, 89.823
+
+
+### Kazhi
+
+Code: BT01908, Coordinates: 27.757, 90.129
+
+
+### Nahi
+
+Code: BT01909, Coordinates: 27.444, 89.809
+
+
+### Nyisho
+
+Code: BT01910, Coordinates: 27.567, 90.102
+
+
+### Phangyuel
+
+Code: BT01911, Coordinates: 27.528, 89.953
+
+
+### Phobji
+
+Code: BT01912, Coordinates: 27.427, 90.224
+
+
+### Ruepisa
+
+Code: BT01913, Coordinates: 27.397, 89.967
+
+
+### Sephu
+
+Code: BT01914, Coordinates: 27.763, 90.371
+
+
+### Thedtsho
+
+Code: BT01915, Coordinates: 27.49, 89.894
+
+

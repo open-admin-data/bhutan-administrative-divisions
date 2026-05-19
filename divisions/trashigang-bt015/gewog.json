@@ -1,0 +1,707 @@
+[
+  {
+    "id": "BT01501",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bartsham",
+      "en": "Bartsham",
+      "slug": "bartsham-bt01501"
+    },
+    "code": {
+      "id": "BT01501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.383",
+      "lon": "91.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01502",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bidung",
+      "en": "Bidung",
+      "slug": "bidung-bt01502"
+    },
+    "code": {
+      "id": "BT01502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.391",
+      "lon": "91.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01503",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kanglung",
+      "en": "Kanglung",
+      "slug": "kanglung-bt01503"
+    },
+    "code": {
+      "id": "BT01503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42002"
+    ],
+    "geo": {
+      "lat": "27.281",
+      "lon": "91.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01504",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kangpara",
+      "en": "Kangpara",
+      "slug": "kangpara-bt01504"
+    },
+    "code": {
+      "id": "BT01504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42002"
+    ],
+    "geo": {
+      "lat": "27.164",
+      "lon": "91.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01505",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khaling",
+      "en": "Khaling",
+      "slug": "khaling-bt01505"
+    },
+    "code": {
+      "id": "BT01505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.177",
+      "lon": "91.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01506",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lumang",
+      "en": "Lumang",
+      "slug": "lumang-bt01506"
+    },
+    "code": {
+      "id": "BT01506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42004"
+    ],
+    "geo": {
+      "lat": "27.126",
+      "lon": "91.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01507",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Merak",
+      "en": "Merak",
+      "slug": "merak-bt01507"
+    },
+    "code": {
+      "id": "BT01507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.249",
+      "lon": "91.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01508",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phongme",
+      "en": "Phongme",
+      "slug": "phongme-bt01508"
+    },
+    "code": {
+      "id": "BT01508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.408",
+      "lon": "91.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01509",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Radi",
+      "en": "Radi",
+      "slug": "radi-bt01509"
+    },
+    "code": {
+      "id": "BT01509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.357",
+      "lon": "91.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01510",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sakteng",
+      "en": "Sakteng",
+      "slug": "sakteng-bt01510"
+    },
+    "code": {
+      "id": "BT01510",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.381",
+      "lon": "91.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01511",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samkhar",
+      "en": "Samkhar",
+      "slug": "samkhar-bt01511"
+    },
+    "code": {
+      "id": "BT01511",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.298",
+      "lon": "91.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01512",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shongphu",
+      "en": "Shongphu",
+      "slug": "shongphu-bt01512"
+    },
+    "code": {
+      "id": "BT01512",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.301",
+      "lon": "91.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01513",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Thrimshing",
+      "en": "Thrimshing",
+      "slug": "thrimshing-bt01513"
+    },
+    "code": {
+      "id": "BT01513",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.098",
+      "lon": "91.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01514",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Udzorong",
+      "en": "Udzorong",
+      "slug": "udzorong-bt01514"
+    },
+    "code": {
+      "id": "BT01514",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.228",
+      "lon": "91.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01515",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yangnyer",
+      "en": "Yangnyer",
+      "slug": "yangnyer-bt01515"
+    },
+    "code": {
+      "id": "BT01515",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT015",
+        "level": 1,
+        "name": {
+          "local": "བཀྲིས་སྒང་",
+          "en": "Trashigang",
+          "slug": "trashigang-bt015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "27.364",
+      "lon": "91.504"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

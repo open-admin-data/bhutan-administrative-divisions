@@ -1,0 +1,29 @@
+{
+  "id": "BT011",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+    "en": "Samdrupjongkhar",
+    "slug": "samdrupjongkhar-bt011"
+  },
+  "code": {
+    "id": "BT011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.021",
+    "lon": "91.801"
+  },
+  "metadata": {},
+  "source": {}
+}

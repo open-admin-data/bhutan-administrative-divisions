@@ -1,0 +1,59 @@
+# Paro — Bhutan Administrative Divisions
+
+> 10 sub-districts
+> Code: BT008
+> Coordinates: 27.487, 89.373
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Doga
+
+Code: BT00801, Coordinates: 27.296, 89.483
+
+
+### Dopshari
+
+Code: BT00802, Coordinates: 27.457, 89.444
+
+
+### Doteng
+
+Code: BT00803, Coordinates: 27.558, 89.437
+
+
+### Hungrel
+
+Code: BT00804, Coordinates: 27.417, 89.46
+
+
+### Lamgong
+
+Code: BT00805, Coordinates: 27.439, 89.352
+
+
+### Lungnyi
+
+Code: BT00806, Coordinates: 27.38, 89.386
+
+
+### Naja
+
+Code: BT00807, Coordinates: 27.254, 89.398
+
+
+### Shapa
+
+Code: BT00808, Coordinates: 27.36, 89.463
+
+
+### Tsento
+
+Code: BT00809, Coordinates: 27.609, 89.251
+
+
+### Wangchang
+
+Code: BT00810, Coordinates: 27.411, 89.424
+
+

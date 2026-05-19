@@ -1,0 +1,16 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+BT01501,Bartsham,Bartsham,bartsham-bt01501,BT01501,42001,27.383,91.596
+BT01502,Bidung,Bidung,bidung-bt01502,BT01502,42001,27.391,91.657
+BT01503,Kanglung,Kanglung,kanglung-bt01503,BT01503,42002,27.281,91.519
+BT01504,Kangpara,Kangpara,kangpara-bt01504,BT01504,42002,27.164,91.734
+BT01505,Khaling,Khaling,khaling-bt01505,BT01505,42001,27.177,91.595
+BT01506,Lumang,Lumang,lumang-bt01506,BT01506,42004,27.126,91.528
+BT01507,Merak,Merak,merak-bt01507,BT01507,42001,27.249,91.857
+BT01508,Phongme,Phongme,phongme-bt01508,BT01508,42001,27.408,91.736
+BT01509,Radi,Radi,radi-bt01509,BT01509,42001,27.357,91.707
+BT01510,Sakteng,Sakteng,sakteng-bt01510,BT01510,42001,27.381,91.916
+BT01511,Samkhar,Samkhar,samkhar-bt01511,BT01511,42001,27.298,91.588
+BT01512,Shongphu,Shongphu,shongphu-bt01512,BT01512,42001,27.301,91.678
+BT01513,Thrimshing,Thrimshing,thrimshing-bt01513,BT01513,42001,27.098,91.596
+BT01514,Udzorong,Udzorong,udzorong-bt01514,BT01514,42001,27.228,91.447
+BT01515,Yangnyer,Yangnyer,yangnyer-bt01515,BT01515,42001,27.364,91.504

@@ -1,0 +1,47 @@
+{
+  "id": "BT01502",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Bidung",
+    "en": "Bidung",
+    "slug": "bidung-bt01502"
+  },
+  "code": {
+    "id": "BT01502",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT015",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་སྒང་",
+      "en": "Trashigang",
+      "slug": "trashigang-bt015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "42001"
+  ],
+  "geo": {
+    "lat": "27.391",
+    "lon": "91.657"
+  },
+  "metadata": {},
+  "source": {}
+}

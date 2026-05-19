@@ -1,0 +1,47 @@
+{
+  "id": "BT01512",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Shongphu",
+    "en": "Shongphu",
+    "slug": "shongphu-bt01512"
+  },
+  "code": {
+    "id": "BT01512",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT015",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་སྒང་",
+      "en": "Trashigang",
+      "slug": "trashigang-bt015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "42001"
+  ],
+  "geo": {
+    "lat": "27.301",
+    "lon": "91.678"
+  },
+  "metadata": {},
+  "source": {}
+}

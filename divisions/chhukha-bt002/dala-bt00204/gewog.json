@@ -1,0 +1,47 @@
+{
+  "id": "BT00204",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Dala",
+    "en": "Dala",
+    "slug": "dala-bt00204"
+  },
+  "code": {
+    "id": "BT00204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT002",
+    "level": 1,
+    "name": {
+      "local": "ཆུ་ཁ",
+      "en": "Chhukha",
+      "slug": "chhukha-bt002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "21101"
+  ],
+  "geo": {
+    "lat": "26.815",
+    "lon": "89.586"
+  },
+  "metadata": {},
+  "source": {}
+}

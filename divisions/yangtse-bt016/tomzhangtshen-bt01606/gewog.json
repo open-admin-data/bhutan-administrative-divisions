@@ -1,0 +1,47 @@
+{
+  "id": "BT01606",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Tomzhangtshen",
+    "en": "Tomzhangtshen",
+    "slug": "tomzhangtshen-bt01606"
+  },
+  "code": {
+    "id": "BT01606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT016",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་གཡང་རྩེ",
+      "en": "Yangtse",
+      "slug": "yangtse-bt016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "46001"
+  ],
+  "geo": {
+    "lat": "27.451",
+    "lon": "91.499"
+  },
+  "metadata": {},
+  "source": {}
+}

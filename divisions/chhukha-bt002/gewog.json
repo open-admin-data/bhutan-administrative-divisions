@@ -1,0 +1,519 @@
+[
+  {
+    "id": "BT00201",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bjachho",
+      "en": "Bjachho",
+      "slug": "bjachho-bt00201"
+    },
+    "code": {
+      "id": "BT00201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.075",
+      "lon": "89.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00202",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo-bt00202"
+    },
+    "code": {
+      "id": "BT00202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.924",
+      "lon": "89.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00203",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chapchha",
+      "en": "Chapchha",
+      "slug": "chapchha-bt00203"
+    },
+    "code": {
+      "id": "BT00203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.211",
+      "lon": "89.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00204",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dala",
+      "en": "Dala",
+      "slug": "dala-bt00204"
+    },
+    "code": {
+      "id": "BT00204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.815",
+      "lon": "89.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00205",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dungna",
+      "en": "Dungna",
+      "slug": "dungna-bt00205"
+    },
+    "code": {
+      "id": "BT00205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.082",
+      "lon": "89.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00206",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Geling",
+      "en": "Geling",
+      "slug": "geling-bt00206"
+    },
+    "code": {
+      "id": "BT00206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.025",
+      "lon": "89.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00207",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Getana",
+      "en": "Getana",
+      "slug": "getana-bt00207"
+    },
+    "code": {
+      "id": "BT00207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.919",
+      "lon": "89.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00208",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Logchina",
+      "en": "Logchina",
+      "slug": "logchina-bt00208"
+    },
+    "code": {
+      "id": "BT00208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.957",
+      "lon": "89.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00209",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Metap",
+      "en": "Metap",
+      "slug": "metap-bt00209"
+    },
+    "code": {
+      "id": "BT00209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "27.115",
+      "lon": "89.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00210",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phuentsholing",
+      "en": "Phuentsholing",
+      "slug": "phuentsholing-bt00210"
+    },
+    "code": {
+      "id": "BT00210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.918",
+      "lon": "89.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00211",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samphelling",
+      "en": "Samphelling",
+      "slug": "samphelling-bt00211"
+    },
+    "code": {
+      "id": "BT00211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT002",
+        "level": 1,
+        "name": {
+          "local": "ཆུ་ཁ",
+          "en": "Chhukha",
+          "slug": "chhukha-bt002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21101"
+    ],
+    "geo": {
+      "lat": "26.851",
+      "lon": "89.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

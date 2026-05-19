@@ -1,0 +1,29 @@
+{
+  "id": "BT013",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "གསར་སྤང་",
+    "en": "Sarpang",
+    "slug": "sarpang-bt013"
+  },
+  "code": {
+    "id": "BT013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.976",
+    "lon": "90.452"
+  },
+  "metadata": {},
+  "source": {}
+}

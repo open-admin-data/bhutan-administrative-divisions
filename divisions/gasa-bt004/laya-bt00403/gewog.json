@@ -1,0 +1,47 @@
+{
+  "id": "BT00403",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Laya",
+    "en": "Laya",
+    "slug": "laya-bt00403"
+  },
+  "code": {
+    "id": "BT00403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT004",
+    "level": 1,
+    "name": {
+      "local": "མགར་ས་",
+      "en": "Gasa",
+      "slug": "gasa-bt004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "16001"
+  ],
+  "geo": {
+    "lat": "28.07",
+    "lon": "89.677"
+  },
+  "metadata": {},
+  "source": {}
+}

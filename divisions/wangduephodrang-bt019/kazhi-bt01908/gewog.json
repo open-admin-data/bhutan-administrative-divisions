@@ -1,0 +1,47 @@
+{
+  "id": "BT01908",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Kazhi",
+    "en": "Kazhi",
+    "slug": "kazhi-bt01908"
+  },
+  "code": {
+    "id": "BT01908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT019",
+    "level": 1,
+    "name": {
+      "local": "དབང་འདུས་ཕོ་བྲང",
+      "en": "Wangduephodrang",
+      "slug": "wangduephodrang-bt019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "14001"
+  ],
+  "geo": {
+    "lat": "27.757",
+    "lon": "90.129"
+  },
+  "metadata": {},
+  "source": {}
+}

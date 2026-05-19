@@ -1,0 +1,47 @@
+{
+  "id": "BT00807",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Naja",
+    "en": "Naja",
+    "slug": "naja-bt00807"
+  },
+  "code": {
+    "id": "BT00807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT008",
+    "level": 1,
+    "name": {
+      "local": "སྤ་རོ་",
+      "en": "Paro",
+      "slug": "paro-bt008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "12001"
+  ],
+  "geo": {
+    "lat": "27.254",
+    "lon": "89.398"
+  },
+  "metadata": {},
+  "source": {}
+}

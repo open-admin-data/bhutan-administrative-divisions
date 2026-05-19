@@ -1,0 +1,47 @@
+{
+  "id": "BT00103",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Tang",
+    "en": "Tang",
+    "slug": "tang-bt00103"
+  },
+  "code": {
+    "id": "BT00103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT001",
+    "level": 1,
+    "name": {
+      "local": "བུམ་ཐང་",
+      "en": "Bumthang",
+      "slug": "bumthang-bt001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "32001"
+  ],
+  "geo": {
+    "lat": "27.681",
+    "lon": "90.897"
+  },
+  "metadata": {},
+  "source": {}
+}

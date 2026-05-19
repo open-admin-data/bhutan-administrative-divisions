@@ -1,0 +1,64 @@
+# Samdrupjongkhar — Bhutan Administrative Divisions
+
+> 11 sub-districts
+> Code: BT011
+> Coordinates: 27.021, 91.801
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Dewathang
+
+Code: BT01101, Coordinates: 26.857, 91.513
+
+
+### Gomdar
+
+Code: BT01102, Coordinates: 27.001, 91.565
+
+
+### Jangchhubling
+
+Code: BT01105, Coordinates: 26.935, 91.509
+
+
+### Langchhenphu
+
+Code: BT01103, Coordinates: 26.919, 92.005
+
+
+### Lauri
+
+Code: BT01110, Coordinates: 27.142, 91.931
+
+
+### Martshala
+
+Code: BT01104, Coordinates: 26.99, 91.755
+
+
+### Pemathang
+
+Code: BT01106, Coordinates: 26.895, 91.768
+
+
+### Phuntsthothang
+
+Code: BT01107, Coordinates: 26.867, 91.671
+
+
+### Samrang
+
+Code: BT01108, Coordinates: 26.908, 91.828
+
+
+### Serthig
+
+Code: BT01109, Coordinates: 27.007, 91.955
+
+
+### Wangphu
+
+Code: BT01111, Coordinates: 26.976, 91.621
+
+

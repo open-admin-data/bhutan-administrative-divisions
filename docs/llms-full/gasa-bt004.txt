@@ -1,0 +1,29 @@
+# Gasa — Bhutan Administrative Divisions
+
+> 4 sub-districts
+> Code: BT004
+> Coordinates: 27.986, 89.861
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Goenkhame
+
+Code: BT00401, Coordinates: 27.795, 89.677
+
+
+### Goenkhatoe
+
+Code: BT00402, Coordinates: 27.867, 89.635
+
+
+### Laya
+
+Code: BT00403, Coordinates: 28.07, 89.677
+
+
+### Lunana
+
+Code: BT00404, Coordinates: 27.974, 90.04
+
+

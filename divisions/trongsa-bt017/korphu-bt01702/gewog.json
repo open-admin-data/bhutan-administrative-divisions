@@ -1,0 +1,47 @@
+{
+  "id": "BT01702",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Korphu",
+    "en": "Korphu",
+    "slug": "korphu-bt01702"
+  },
+  "code": {
+    "id": "BT01702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT017",
+    "level": 1,
+    "name": {
+      "local": "ཀྲོང་གསར་",
+      "en": "Trongsa",
+      "slug": "trongsa-bt017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "33001"
+  ],
+  "geo": {
+    "lat": "27.213",
+    "lon": "90.499"
+  },
+  "metadata": {},
+  "source": {}
+}

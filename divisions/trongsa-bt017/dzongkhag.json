@@ -1,0 +1,29 @@
+{
+  "id": "BT017",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "ཀྲོང་གསར་",
+    "en": "Trongsa",
+    "slug": "trongsa-bt017"
+  },
+  "code": {
+    "id": "BT017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.463",
+    "lon": "90.43"
+  },
+  "metadata": {},
+  "source": {}
+}

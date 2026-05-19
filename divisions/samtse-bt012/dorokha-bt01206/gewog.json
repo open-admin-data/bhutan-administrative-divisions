@@ -1,0 +1,47 @@
+{
+  "id": "BT01206",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Dorokha",
+    "en": "Dorokha",
+    "slug": "dorokha-bt01206"
+  },
+  "code": {
+    "id": "BT01206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT012",
+    "level": 1,
+    "name": {
+      "local": "བསམ་རྩེ་",
+      "en": "Samtse",
+      "slug": "samtse-bt012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "22001"
+  ],
+  "geo": {
+    "lat": "26.97",
+    "lon": "89.204"
+  },
+  "metadata": {},
+  "source": {}
+}

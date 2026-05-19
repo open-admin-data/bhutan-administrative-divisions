@@ -1,0 +1,519 @@
+[
+  {
+    "id": "BT01101",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dewathang",
+      "en": "Dewathang",
+      "slug": "dewathang-bt01101"
+    },
+    "code": {
+      "id": "BT01101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.857",
+      "lon": "91.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01102",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gomdar",
+      "en": "Gomdar",
+      "slug": "gomdar-bt01102"
+    },
+    "code": {
+      "id": "BT01102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "27.001",
+      "lon": "91.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01105",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jangchhubling",
+      "en": "Jangchhubling",
+      "slug": "jangchhubling-bt01105"
+    },
+    "code": {
+      "id": "BT01105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.935",
+      "lon": "91.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01103",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Langchhenphu",
+      "en": "Langchhenphu",
+      "slug": "langchhenphu-bt01103"
+    },
+    "code": {
+      "id": "BT01103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41104"
+    ],
+    "geo": {
+      "lat": "26.919",
+      "lon": "92.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01110",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lauri",
+      "en": "Lauri",
+      "slug": "lauri-bt01110"
+    },
+    "code": {
+      "id": "BT01110",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "27.142",
+      "lon": "91.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01104",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Martshala",
+      "en": "Martshala",
+      "slug": "martshala-bt01104"
+    },
+    "code": {
+      "id": "BT01104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.99",
+      "lon": "91.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01106",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Pemathang",
+      "en": "Pemathang",
+      "slug": "pemathang-bt01106"
+    },
+    "code": {
+      "id": "BT01106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.895",
+      "lon": "91.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01107",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phuntsthothang",
+      "en": "Phuntsthothang",
+      "slug": "phuntsthothang-bt01107"
+    },
+    "code": {
+      "id": "BT01107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.867",
+      "lon": "91.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01108",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samrang",
+      "en": "Samrang",
+      "slug": "samrang-bt01108"
+    },
+    "code": {
+      "id": "BT01108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.908",
+      "lon": "91.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01109",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Serthig",
+      "en": "Serthig",
+      "slug": "serthig-bt01109"
+    },
+    "code": {
+      "id": "BT01109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "27.007",
+      "lon": "91.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01111",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Wangphu",
+      "en": "Wangphu",
+      "slug": "wangphu-bt01111"
+    },
+    "code": {
+      "id": "BT01111",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT011",
+        "level": 1,
+        "name": {
+          "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+          "en": "Samdrupjongkhar",
+          "slug": "samdrupjongkhar-bt011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "26.976",
+      "lon": "91.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

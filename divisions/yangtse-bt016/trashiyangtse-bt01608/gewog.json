@@ -1,0 +1,47 @@
+{
+  "id": "BT01608",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Trashiyangtse",
+    "en": "Trashiyangtse",
+    "slug": "trashiyangtse-bt01608"
+  },
+  "code": {
+    "id": "BT01608",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT016",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་གཡང་རྩེ",
+      "en": "Yangtse",
+      "slug": "yangtse-bt016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "46001"
+  ],
+  "geo": {
+    "lat": "27.563",
+    "lon": "91.476"
+  },
+  "metadata": {},
+  "source": {}
+}

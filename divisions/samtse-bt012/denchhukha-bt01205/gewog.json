@@ -1,0 +1,47 @@
+{
+  "id": "BT01205",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Denchhukha",
+    "en": "Denchhukha",
+    "slug": "denchhukha-bt01205"
+  },
+  "code": {
+    "id": "BT01205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT012",
+    "level": 1,
+    "name": {
+      "local": "བསམ་རྩེ་",
+      "en": "Samtse",
+      "slug": "samtse-bt012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "22001"
+  ],
+  "geo": {
+    "lat": "27.026",
+    "lon": "89.27"
+  },
+  "metadata": {},
+  "source": {}
+}

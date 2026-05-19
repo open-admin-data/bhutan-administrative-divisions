@@ -1,0 +1,29 @@
+{
+  "id": "BT020",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "གཞལམ་སྒང་",
+    "en": "Zhemgang",
+    "slug": "zhemgang-bt020"
+  },
+  "code": {
+    "id": "BT020",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.082",
+    "lon": "90.842"
+  },
+  "metadata": {},
+  "source": {}
+}

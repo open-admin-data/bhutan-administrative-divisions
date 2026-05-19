@@ -1,0 +1,29 @@
+{
+  "id": "BT005",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "ཧཱ་",
+    "en": "Haa",
+    "slug": "haa-bt005"
+  },
+  "code": {
+    "id": "BT005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.323",
+    "lon": "89.191"
+  },
+  "metadata": {},
+  "source": {}
+}

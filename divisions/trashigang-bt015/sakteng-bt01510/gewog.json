@@ -1,0 +1,47 @@
+{
+  "id": "BT01510",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Sakteng",
+    "en": "Sakteng",
+    "slug": "sakteng-bt01510"
+  },
+  "code": {
+    "id": "BT01510",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT015",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་སྒང་",
+      "en": "Trashigang",
+      "slug": "trashigang-bt015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "42001"
+  ],
+  "geo": {
+    "lat": "27.381",
+    "lon": "91.916"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+# Yangtse — Bhutan Administrative Divisions
+
+> 8 sub-districts
+> Code: BT016
+> Coordinates: 27.678, 91.472
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bumdeling
+
+Code: BT01601, Coordinates: 27.79, 91.5
+
+
+### Jamkhar
+
+Code: BT01602, Coordinates: 27.408, 91.509
+
+
+### Khamdang
+
+Code: BT01603, Coordinates: 27.489, 91.554
+
+
+### Ramjar
+
+Code: BT01604, Coordinates: 27.409, 91.581
+
+
+### Toetsho
+
+Code: BT01605, Coordinates: 27.503, 91.603
+
+
+### Tomzhangtshen
+
+Code: BT01606, Coordinates: 27.451, 91.499
+
+
+### Trashiyangtse
+
+Code: BT01608, Coordinates: 27.563, 91.476
+
+
+### Yalang
+
+Code: BT01607, Coordinates: 27.462, 91.68
+
+

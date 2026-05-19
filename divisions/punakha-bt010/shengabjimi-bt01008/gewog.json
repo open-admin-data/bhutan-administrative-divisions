@@ -1,0 +1,47 @@
+{
+  "id": "BT01008",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Shengabjimi",
+    "en": "Shengabjimi",
+    "slug": "shengabjimi-bt01008"
+  },
+  "code": {
+    "id": "BT01008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT010",
+    "level": 1,
+    "name": {
+      "local": "སྤུ་ན་ཁ་",
+      "en": "Punakha",
+      "slug": "punakha-bt010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "13001"
+  ],
+  "geo": {
+    "lat": "27.607",
+    "lon": "89.954"
+  },
+  "metadata": {},
+  "source": {}
+}

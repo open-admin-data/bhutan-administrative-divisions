@@ -1,0 +1,47 @@
+{
+  "id": "BT02003",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Gozhing",
+    "en": "Gozhing",
+    "slug": "gozhing-bt02003"
+  },
+  "code": {
+    "id": "BT02003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT020",
+    "level": 1,
+    "name": {
+      "local": "གཞལམ་སྒང་",
+      "en": "Zhemgang",
+      "slug": "zhemgang-bt020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "34001"
+  ],
+  "geo": {
+    "lat": "26.963",
+    "lon": "90.908"
+  },
+  "metadata": {},
+  "source": {}
+}

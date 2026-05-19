@@ -1,0 +1,707 @@
+[
+  {
+    "id": "BT01201",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara-bt01201"
+    },
+    "code": {
+      "id": "BT01201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.193",
+      "lon": "88.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01202",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Biru",
+      "en": "Biru",
+      "slug": "biru-bt01202"
+    },
+    "code": {
+      "id": "BT01202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.057",
+      "lon": "88.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01203",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chargharay",
+      "en": "Chargharay",
+      "slug": "chargharay-bt01203"
+    },
+    "code": {
+      "id": "BT01203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.995",
+      "lon": "88.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01204",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chengmari",
+      "en": "Chengmari",
+      "slug": "chengmari-bt01204"
+    },
+    "code": {
+      "id": "BT01204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.994",
+      "lon": "89.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01205",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Denchhukha",
+      "en": "Denchhukha",
+      "slug": "denchhukha-bt01205"
+    },
+    "code": {
+      "id": "BT01205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.026",
+      "lon": "89.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01206",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dorokha",
+      "en": "Dorokha",
+      "slug": "dorokha-bt01206"
+    },
+    "code": {
+      "id": "BT01206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.97",
+      "lon": "89.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01207",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dungtoe",
+      "en": "Dungtoe",
+      "slug": "dungtoe-bt01207"
+    },
+    "code": {
+      "id": "BT01207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.049",
+      "lon": "89.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01208",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Namgyel Chhoeling",
+      "en": "Namgyel Chhoeling",
+      "slug": "namgyel-chhoeling-bt01208"
+    },
+    "code": {
+      "id": "BT01208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.065",
+      "lon": "88.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01209",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Pagli",
+      "en": "Pagli",
+      "slug": "pagli-bt01209"
+    },
+    "code": {
+      "id": "BT01209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22002"
+    ],
+    "geo": {
+      "lat": "26.85",
+      "lon": "89.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01210",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Samtse",
+      "en": "Samtse",
+      "slug": "samtse-bt01210"
+    },
+    "code": {
+      "id": "BT01210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.92",
+      "lon": "89.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01211",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sipsu",
+      "en": "Sipsu",
+      "slug": "sipsu-bt01211"
+    },
+    "code": {
+      "id": "BT01211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.002",
+      "lon": "88.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01212",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tading",
+      "en": "Tading",
+      "slug": "tading-bt01212"
+    },
+    "code": {
+      "id": "BT01212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.881",
+      "lon": "89.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01213",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tendu",
+      "en": "Tendu",
+      "slug": "tendu-bt01213"
+    },
+    "code": {
+      "id": "BT01213",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "27.157",
+      "lon": "88.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01215",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ugentse",
+      "en": "Ugentse",
+      "slug": "ugentse-bt01215"
+    },
+    "code": {
+      "id": "BT01215",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.958",
+      "lon": "89.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01214",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Yoeseltse",
+      "en": "Yoeseltse",
+      "slug": "yoeseltse-bt01214"
+    },
+    "code": {
+      "id": "BT01214",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT012",
+        "level": 1,
+        "name": {
+          "local": "བསམ་རྩེ་",
+          "en": "Samtse",
+          "slug": "samtse-bt012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22001"
+    ],
+    "geo": {
+      "lat": "26.965",
+      "lon": "88.982"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

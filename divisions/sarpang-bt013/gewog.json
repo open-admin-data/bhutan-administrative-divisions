@@ -1,0 +1,566 @@
+[
+  {
+    "id": "BT01301",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bhur",
+      "en": "Bhur",
+      "slug": "bhur-bt01301"
+    },
+    "code": {
+      "id": "BT01301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.926",
+      "lon": "90.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01302",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhuzagang",
+      "en": "Chhuzagang",
+      "slug": "chhuzagang-bt01302"
+    },
+    "code": {
+      "id": "BT01302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.875",
+      "lon": "90.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01303",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dekiling",
+      "en": "Dekiling",
+      "slug": "dekiling-bt01303"
+    },
+    "code": {
+      "id": "BT01303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.935",
+      "lon": "90.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01304",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Doban",
+      "en": "Doban",
+      "slug": "doban-bt01304"
+    },
+    "code": {
+      "id": "BT01304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "27.056",
+      "lon": "90.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01305",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gelephu",
+      "en": "Gelephu",
+      "slug": "gelephu-bt01305"
+    },
+    "code": {
+      "id": "BT01305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31101"
+    ],
+    "geo": {
+      "lat": "26.911",
+      "lon": "90.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01306",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Hiley",
+      "en": "Hiley",
+      "slug": "hiley-bt01306"
+    },
+    "code": {
+      "id": "BT01306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.934",
+      "lon": "90.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01307",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Jigmichhoeling",
+      "en": "Jigmichhoeling",
+      "slug": "jigmichhoeling-bt01307"
+    },
+    "code": {
+      "id": "BT01307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "27.083",
+      "lon": "90.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01308",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Senge",
+      "en": "Senge",
+      "slug": "senge-bt01308"
+    },
+    "code": {
+      "id": "BT01308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.835",
+      "lon": "90.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01309",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sherzhong",
+      "en": "Sherzhong",
+      "slug": "sherzhong-bt01309"
+    },
+    "code": {
+      "id": "BT01309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.924",
+      "lon": "90.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01310",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shompangkha",
+      "en": "Shompangkha",
+      "slug": "shompangkha-bt01310"
+    },
+    "code": {
+      "id": "BT01310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.878",
+      "lon": "90.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01311",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Taklai",
+      "en": "Taklai",
+      "slug": "taklai-bt01311"
+    },
+    "code": {
+      "id": "BT01311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.809",
+      "lon": "90.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01312",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Umling",
+      "en": "Umling",
+      "slug": "umling-bt01312"
+    },
+    "code": {
+      "id": "BT01312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT013",
+        "level": 1,
+        "name": {
+          "local": "གསར་སྤང་",
+          "en": "Sarpang",
+          "slug": "sarpang-bt013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "26.907",
+      "lon": "90.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

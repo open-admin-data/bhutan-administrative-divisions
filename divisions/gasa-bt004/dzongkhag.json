@@ -1,0 +1,29 @@
+{
+  "id": "BT004",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "མགར་ས་",
+    "en": "Gasa",
+    "slug": "gasa-bt004"
+  },
+  "code": {
+    "id": "BT004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.986",
+    "lon": "89.861"
+  },
+  "metadata": {},
+  "source": {}
+}

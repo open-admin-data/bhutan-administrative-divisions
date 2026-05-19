@@ -1,0 +1,47 @@
+{
+  "id": "BT00102",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Chhume",
+    "en": "Chhume",
+    "slug": "chhume-bt00102"
+  },
+  "code": {
+    "id": "BT00102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT001",
+    "level": 1,
+    "name": {
+      "local": "བུམ་ཐང་",
+      "en": "Bumthang",
+      "slug": "bumthang-bt001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT001",
+      "level": 1,
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "32001"
+  ],
+  "geo": {
+    "lat": "27.465",
+    "lon": "90.705"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,84 @@
+# Trashigang — Bhutan Administrative Divisions
+
+> 15 sub-districts
+> Code: BT015
+> Coordinates: 27.251, 91.735
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bartsham
+
+Code: BT01501, Coordinates: 27.383, 91.596
+
+
+### Bidung
+
+Code: BT01502, Coordinates: 27.391, 91.657
+
+
+### Kanglung
+
+Code: BT01503, Coordinates: 27.281, 91.519
+
+
+### Kangpara
+
+Code: BT01504, Coordinates: 27.164, 91.734
+
+
+### Khaling
+
+Code: BT01505, Coordinates: 27.177, 91.595
+
+
+### Lumang
+
+Code: BT01506, Coordinates: 27.126, 91.528
+
+
+### Merak
+
+Code: BT01507, Coordinates: 27.249, 91.857
+
+
+### Phongme
+
+Code: BT01508, Coordinates: 27.408, 91.736
+
+
+### Radi
+
+Code: BT01509, Coordinates: 27.357, 91.707
+
+
+### Sakteng
+
+Code: BT01510, Coordinates: 27.381, 91.916
+
+
+### Samkhar
+
+Code: BT01511, Coordinates: 27.298, 91.588
+
+
+### Shongphu
+
+Code: BT01512, Coordinates: 27.301, 91.678
+
+
+### Thrimshing
+
+Code: BT01513, Coordinates: 27.098, 91.596
+
+
+### Udzorong
+
+Code: BT01514, Coordinates: 27.228, 91.447
+
+
+### Yangnyer
+
+Code: BT01515, Coordinates: 27.364, 91.504
+
+

@@ -1,0 +1,47 @@
+{
+  "id": "BT01913",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Ruepisa",
+    "en": "Ruepisa",
+    "slug": "ruepisa-bt01913"
+  },
+  "code": {
+    "id": "BT01913",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT019",
+    "level": 1,
+    "name": {
+      "local": "དབང་འདུས་ཕོ་བྲང",
+      "en": "Wangduephodrang",
+      "slug": "wangduephodrang-bt019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "14001"
+  ],
+  "geo": {
+    "lat": "27.397",
+    "lon": "89.967"
+  },
+  "metadata": {},
+  "source": {}
+}

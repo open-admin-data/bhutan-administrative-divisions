@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+BT01101,Dewathang,Dewathang,dewathang-bt01101,BT01101,41001,26.857,91.513
+BT01102,Gomdar,Gomdar,gomdar-bt01102,BT01102,41001,27.001,91.565
+BT01105,Jangchhubling,Jangchhubling,jangchhubling-bt01105,BT01105,41001,26.935,91.509
+BT01103,Langchhenphu,Langchhenphu,langchhenphu-bt01103,BT01103,41104,26.919,92.005
+BT01110,Lauri,Lauri,lauri-bt01110,BT01110,41001,27.142,91.931
+BT01104,Martshala,Martshala,martshala-bt01104,BT01104,41001,26.99,91.755
+BT01106,Pemathang,Pemathang,pemathang-bt01106,BT01106,41001,26.895,91.768
+BT01107,Phuntsthothang,Phuntsthothang,phuntsthothang-bt01107,BT01107,41001,26.867,91.671
+BT01108,Samrang,Samrang,samrang-bt01108,BT01108,41001,26.908,91.828
+BT01109,Serthig,Serthig,serthig-bt01109,BT01109,41001,27.007,91.955
+BT01111,Wangphu,Wangphu,wangphu-bt01111,BT01111,41001,26.976,91.621

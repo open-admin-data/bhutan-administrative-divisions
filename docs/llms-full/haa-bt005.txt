@@ -1,0 +1,39 @@
+# Haa — Bhutan Administrative Divisions
+
+> 6 sub-districts
+> Code: BT005
+> Coordinates: 27.323, 89.191
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bji
+
+Code: BT00501, Coordinates: 27.451, 89.14
+
+
+### Gakiling
+
+Code: BT00502, Coordinates: 27.137, 89.236
+
+
+### Katsho
+
+Code: BT00503, Coordinates: 27.406, 89.298
+
+
+### Sama
+
+Code: BT00504, Coordinates: 27.296, 89.267
+
+
+### Sombey
+
+Code: BT00505, Coordinates: 27.205, 89.1
+
+
+### Uesu
+
+Code: BT00506, Coordinates: 27.345, 89.315
+
+

@@ -1,0 +1,29 @@
+# Bumthang — Bhutan Administrative Divisions
+
+> 4 sub-districts
+> Code: BT001
+> Coordinates: 27.708, 90.769
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Chhoekhor
+
+Code: BT00101, Coordinates: 27.781, 90.667
+
+
+### Chhume
+
+Code: BT00102, Coordinates: 27.465, 90.705
+
+
+### Tang
+
+Code: BT00103, Coordinates: 27.681, 90.897
+
+
+### Ura
+
+Code: BT00104, Coordinates: 27.459, 90.914
+
+

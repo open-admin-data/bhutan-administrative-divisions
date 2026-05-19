@@ -1,0 +1,47 @@
+{
+  "id": "BT01106",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Pemathang",
+    "en": "Pemathang",
+    "slug": "pemathang-bt01106"
+  },
+  "code": {
+    "id": "BT01106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT011",
+    "level": 1,
+    "name": {
+      "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+      "en": "Samdrupjongkhar",
+      "slug": "samdrupjongkhar-bt011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "41001"
+  ],
+  "geo": {
+    "lat": "26.895",
+    "lon": "91.768"
+  },
+  "metadata": {},
+  "source": {}
+}

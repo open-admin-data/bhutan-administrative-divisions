@@ -1,0 +1,47 @@
+{
+  "id": "BT01005",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Guma",
+    "en": "Guma",
+    "slug": "guma-bt01005"
+  },
+  "code": {
+    "id": "BT01005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT010",
+    "level": 1,
+    "name": {
+      "local": "སྤུ་ན་ཁ་",
+      "en": "Punakha",
+      "slug": "punakha-bt010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "13001"
+  ],
+  "geo": {
+    "lat": "27.577",
+    "lon": "89.793"
+  },
+  "metadata": {},
+  "source": {}
+}

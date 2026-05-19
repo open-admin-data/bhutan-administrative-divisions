@@ -1,0 +1,47 @@
+{
+  "id": "BT01201",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Bara",
+    "en": "Bara",
+    "slug": "bara-bt01201"
+  },
+  "code": {
+    "id": "BT01201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT012",
+    "level": 1,
+    "name": {
+      "local": "བསམ་རྩེ་",
+      "en": "Samtse",
+      "slug": "samtse-bt012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT012",
+      "level": 1,
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "22001"
+  ],
+  "geo": {
+    "lat": "27.193",
+    "lon": "88.841"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "BT00501",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bji",
+      "en": "Bji",
+      "slug": "bji-bt00501"
+    },
+    "code": {
+      "id": "BT00501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.451",
+      "lon": "89.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00502",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gakiling",
+      "en": "Gakiling",
+      "slug": "gakiling-bt00502"
+    },
+    "code": {
+      "id": "BT00502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.137",
+      "lon": "89.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00503",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Katsho",
+      "en": "Katsho",
+      "slug": "katsho-bt00503"
+    },
+    "code": {
+      "id": "BT00503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.406",
+      "lon": "89.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00504",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sama",
+      "en": "Sama",
+      "slug": "sama-bt00504"
+    },
+    "code": {
+      "id": "BT00504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.296",
+      "lon": "89.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00505",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sombey",
+      "en": "Sombey",
+      "slug": "sombey-bt00505"
+    },
+    "code": {
+      "id": "BT00505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.205",
+      "lon": "89.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00506",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Uesu",
+      "en": "Uesu",
+      "slug": "uesu-bt00506"
+    },
+    "code": {
+      "id": "BT00506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT005",
+        "level": 1,
+        "name": {
+          "local": "ཧཱ་",
+          "en": "Haa",
+          "slug": "haa-bt005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "27.345",
+      "lon": "89.315"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

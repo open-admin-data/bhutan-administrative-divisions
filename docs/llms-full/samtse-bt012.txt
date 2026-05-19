@@ -1,0 +1,84 @@
+# Samtse — Bhutan Administrative Divisions
+
+> 15 sub-districts
+> Code: BT012
+> Coordinates: 27.042, 88.99
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bara
+
+Code: BT01201, Coordinates: 27.193, 88.841
+
+
+### Biru
+
+Code: BT01202, Coordinates: 27.057, 88.908
+
+
+### Chargharay
+
+Code: BT01203, Coordinates: 26.995, 88.961
+
+
+### Chengmari
+
+Code: BT01204, Coordinates: 26.994, 89.063
+
+
+### Denchhukha
+
+Code: BT01205, Coordinates: 27.026, 89.27
+
+
+### Dorokha
+
+Code: BT01206, Coordinates: 26.97, 89.204
+
+
+### Dungtoe
+
+Code: BT01207, Coordinates: 27.049, 89.171
+
+
+### Namgyel Chhoeling
+
+Code: BT01208, Coordinates: 27.065, 88.997
+
+
+### Pagli
+
+Code: BT01209, Coordinates: 26.85, 89.19
+
+
+### Samtse
+
+Code: BT01210, Coordinates: 26.92, 89.116
+
+
+### Sipsu
+
+Code: BT01211, Coordinates: 27.002, 88.882
+
+
+### Tading
+
+Code: BT01212, Coordinates: 26.881, 89.284
+
+
+### Tendu
+
+Code: BT01213, Coordinates: 27.157, 88.921
+
+
+### Ugentse
+
+Code: BT01215, Coordinates: 26.958, 89.007
+
+
+### Yoeseltse
+
+Code: BT01214, Coordinates: 26.965, 88.982
+
+

@@ -1,0 +1,29 @@
+{
+  "id": "BT015",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "བཀྲིས་སྒང་",
+    "en": "Trashigang",
+    "slug": "trashigang-bt015"
+  },
+  "code": {
+    "id": "BT015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.251",
+    "lon": "91.735"
+  },
+  "metadata": {},
+  "source": {}
+}

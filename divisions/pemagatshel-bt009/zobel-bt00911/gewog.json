@@ -1,0 +1,47 @@
+{
+  "id": "BT00911",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Zobel",
+    "en": "Zobel",
+    "slug": "zobel-bt00911"
+  },
+  "code": {
+    "id": "BT00911",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT009",
+    "level": 1,
+    "name": {
+      "local": "པདྨ་དགའ་ཚལ་",
+      "en": "Pemagatshel",
+      "slug": "pemagatshel-bt009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "44001"
+  ],
+  "geo": {
+    "lat": "27.065",
+    "lon": "91.453"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT00402",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Goenkhatoe",
+    "en": "Goenkhatoe",
+    "slug": "goenkhatoe-bt00402"
+  },
+  "code": {
+    "id": "BT00402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT004",
+    "level": 1,
+    "name": {
+      "local": "མགར་ས་",
+      "en": "Gasa",
+      "slug": "gasa-bt004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "16001"
+  ],
+  "geo": {
+    "lat": "27.867",
+    "lon": "89.635"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT00504",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Sama",
+    "en": "Sama",
+    "slug": "sama-bt00504"
+  },
+  "code": {
+    "id": "BT00504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT005",
+    "level": 1,
+    "name": {
+      "local": "ཧཱ་",
+      "en": "Haa",
+      "slug": "haa-bt005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "15001"
+  ],
+  "geo": {
+    "lat": "27.296",
+    "lon": "89.267"
+  },
+  "metadata": {},
+  "source": {}
+}

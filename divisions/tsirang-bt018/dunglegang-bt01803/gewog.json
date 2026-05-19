@@ -1,0 +1,47 @@
+{
+  "id": "BT01803",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Dunglegang",
+    "en": "Dunglegang",
+    "slug": "dunglegang-bt01803"
+  },
+  "code": {
+    "id": "BT01803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT018",
+    "level": 1,
+    "name": {
+      "local": "རྩི་རང་",
+      "en": "Tsirang",
+      "slug": "tsirang-bt018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "36001"
+  ],
+  "geo": {
+    "lat": "27.012",
+    "lon": "90.199"
+  },
+  "metadata": {},
+  "source": {}
+}

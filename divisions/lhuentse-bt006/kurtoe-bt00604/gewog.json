@@ -1,0 +1,47 @@
+{
+  "id": "BT00604",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Kurtoe",
+    "en": "Kurtoe",
+    "slug": "kurtoe-bt00604"
+  },
+  "code": {
+    "id": "BT00604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT006",
+    "level": 1,
+    "name": {
+      "local": "ལྷུན་རྩེ",
+      "en": "Lhuentse",
+      "slug": "lhuentse-bt006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT006",
+      "level": 1,
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "45001"
+  ],
+  "geo": {
+    "lat": "27.926",
+    "lon": "91.019"
+  },
+  "metadata": {},
+  "source": {}
+}

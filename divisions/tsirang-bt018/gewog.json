@@ -1,0 +1,566 @@
+[
+  {
+    "id": "BT01801",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Barzhong",
+      "en": "Barzhong",
+      "slug": "barzhong-bt01801"
+    },
+    "code": {
+      "id": "BT01801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.941",
+      "lon": "90.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01802",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Beteni",
+      "en": "Beteni",
+      "slug": "beteni-bt01802"
+    },
+    "code": {
+      "id": "BT01802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.902",
+      "lon": "90.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01803",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dunglegang",
+      "en": "Dunglegang",
+      "slug": "dunglegang-bt01803"
+    },
+    "code": {
+      "id": "BT01803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.012",
+      "lon": "90.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01804",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gosarling",
+      "en": "Gosarling",
+      "slug": "gosarling-bt01804"
+    },
+    "code": {
+      "id": "BT01804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.029",
+      "lon": "90.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01805",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kikorthang",
+      "en": "Kikorthang",
+      "slug": "kikorthang-bt01805"
+    },
+    "code": {
+      "id": "BT01805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.002",
+      "lon": "90.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01806",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Mendrelgang",
+      "en": "Mendrelgang",
+      "slug": "mendrelgang-bt01806"
+    },
+    "code": {
+      "id": "BT01806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.956",
+      "lon": "90.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01807",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Patakla",
+      "en": "Patakla",
+      "slug": "patakla-bt01807"
+    },
+    "code": {
+      "id": "BT01807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.135",
+      "lon": "90.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01808",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phuentenchhu",
+      "en": "Phuentenchhu",
+      "slug": "phuentenchhu-bt01808"
+    },
+    "code": {
+      "id": "BT01808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.109",
+      "lon": "90.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01809",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Rangthangling",
+      "en": "Rangthangling",
+      "slug": "rangthangling-bt01809"
+    },
+    "code": {
+      "id": "BT01809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "26.982",
+      "lon": "90.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01810",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shemjong",
+      "en": "Shemjong",
+      "slug": "shemjong-bt01810"
+    },
+    "code": {
+      "id": "BT01810",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.038",
+      "lon": "90.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01811",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsholingkhor",
+      "en": "Tsholingkhor",
+      "slug": "tsholingkhor-bt01811"
+    },
+    "code": {
+      "id": "BT01811",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.012",
+      "lon": "90.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01812",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsirangtoe",
+      "en": "Tsirangtoe",
+      "slug": "tsirangtoe-bt01812"
+    },
+    "code": {
+      "id": "BT01812",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT018",
+      "level": 1,
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT018",
+        "level": 1,
+        "name": {
+          "local": "རྩི་རང་",
+          "en": "Tsirang",
+          "slug": "tsirang-bt018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "27.057",
+      "lon": "90.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

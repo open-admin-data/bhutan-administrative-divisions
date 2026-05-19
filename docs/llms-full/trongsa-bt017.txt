@@ -1,0 +1,34 @@
+# Trongsa — Bhutan Administrative Divisions
+
+> 5 sub-districts
+> Code: BT017
+> Coordinates: 27.463, 90.43
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Dragteng
+
+Code: BT01701, Coordinates: 27.427, 90.511
+
+
+### Korphu
+
+Code: BT01702, Coordinates: 27.213, 90.499
+
+
+### Langthil
+
+Code: BT01703, Coordinates: 27.339, 90.608
+
+
+### Nubi
+
+Code: BT01704, Coordinates: 27.625, 90.435
+
+
+### Tangsibji
+
+Code: BT01705, Coordinates: 27.406, 90.393
+
+

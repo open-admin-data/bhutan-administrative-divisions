@@ -1,0 +1,47 @@
+{
+  "id": "BT01402",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Dagala",
+    "en": "Dagala",
+    "slug": "dagala-bt01402"
+  },
+  "code": {
+    "id": "BT01402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT014",
+    "level": 1,
+    "name": {
+      "local": "ཐིམ་ཕུ་",
+      "en": "Thimphu",
+      "slug": "thimphu-bt014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "11001"
+  ],
+  "geo": {
+    "lat": "27.288",
+    "lon": "89.675"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT00717",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Tsamang",
+    "en": "Tsamang",
+    "slug": "tsamang-bt00717"
+  },
+  "code": {
+    "id": "BT00717",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT007",
+    "level": 1,
+    "name": {
+      "local": "མོང་སྒར",
+      "en": "Monggar",
+      "slug": "monggar-bt007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "43001"
+  ],
+  "geo": {
+    "lat": "27.368",
+    "lon": "91.151"
+  },
+  "metadata": {},
+  "source": {}
+}

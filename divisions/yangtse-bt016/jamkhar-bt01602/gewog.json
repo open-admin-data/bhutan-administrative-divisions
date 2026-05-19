@@ -1,0 +1,47 @@
+{
+  "id": "BT01602",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Jamkhar",
+    "en": "Jamkhar",
+    "slug": "jamkhar-bt01602"
+  },
+  "code": {
+    "id": "BT01602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT016",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་གཡང་རྩེ",
+      "en": "Yangtse",
+      "slug": "yangtse-bt016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "46001"
+  ],
+  "geo": {
+    "lat": "27.408",
+    "lon": "91.509"
+  },
+  "metadata": {},
+  "source": {}
+}

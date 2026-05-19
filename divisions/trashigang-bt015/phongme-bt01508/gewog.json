@@ -1,0 +1,47 @@
+{
+  "id": "BT01508",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Phongme",
+    "en": "Phongme",
+    "slug": "phongme-bt01508"
+  },
+  "code": {
+    "id": "BT01508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT015",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་སྒང་",
+      "en": "Trashigang",
+      "slug": "trashigang-bt015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "42001"
+  ],
+  "geo": {
+    "lat": "27.408",
+    "lon": "91.736"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT01607",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Yalang",
+    "en": "Yalang",
+    "slug": "yalang-bt01607"
+  },
+  "code": {
+    "id": "BT01607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT016",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་གཡང་རྩེ",
+      "en": "Yangtse",
+      "slug": "yangtse-bt016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT016",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "46001"
+  ],
+  "geo": {
+    "lat": "27.462",
+    "lon": "91.68"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT00804",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Hungrel",
+    "en": "Hungrel",
+    "slug": "hungrel-bt00804"
+  },
+  "code": {
+    "id": "BT00804",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT008",
+    "level": 1,
+    "name": {
+      "local": "སྤ་རོ་",
+      "en": "Paro",
+      "slug": "paro-bt008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT008",
+      "level": 1,
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "12001"
+  ],
+  "geo": {
+    "lat": "27.417",
+    "lon": "89.46"
+  },
+  "metadata": {},
+  "source": {}
+}

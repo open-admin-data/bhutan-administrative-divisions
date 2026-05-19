@@ -1,0 +1,47 @@
+{
+  "id": "BT01102",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Gomdar",
+    "en": "Gomdar",
+    "slug": "gomdar-bt01102"
+  },
+  "code": {
+    "id": "BT01102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT011",
+    "level": 1,
+    "name": {
+      "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+      "en": "Samdrupjongkhar",
+      "slug": "samdrupjongkhar-bt011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "41001"
+  ],
+  "geo": {
+    "lat": "27.001",
+    "lon": "91.565"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BT01305",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Gelephu",
+    "en": "Gelephu",
+    "slug": "gelephu-bt01305"
+  },
+  "code": {
+    "id": "BT01305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT013",
+    "level": 1,
+    "name": {
+      "local": "གསར་སྤང་",
+      "en": "Sarpang",
+      "slug": "sarpang-bt013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT013",
+      "level": 1,
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "31101"
+  ],
+  "geo": {
+    "lat": "26.911",
+    "lon": "90.491"
+  },
+  "metadata": {},
+  "source": {}
+}

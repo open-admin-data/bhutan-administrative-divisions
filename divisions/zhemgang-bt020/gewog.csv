@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+BT02001,Bardo,Bardo,bardo-bt02001,BT02001,34001,27.102,90.984
+BT02002,Bjoka,Bjoka,bjoka-bt02002,BT02002,34001,26.964,91.085
+BT02003,Gozhing,Gozhing,gozhing-bt02003,BT02003,34001,26.963,90.908
+BT02004,Nangkor,Nangkor,nangkor-bt02004,BT02004,34001,27.203,90.79
+BT02005,Ngangla,Ngangla,ngangla-bt02005,BT02005,34103,26.895,90.99
+BT02006,Pangkhar,Pangkhar,pangkhar-bt02006,BT02006,34001,26.899,90.776
+BT02007,Shingkhar,Shingkhar,shingkhar-bt02007,BT02007,34001,27.213,90.926
+BT02008,Trong,Trong,trong-bt02008,BT02008,34001,27.159,90.63

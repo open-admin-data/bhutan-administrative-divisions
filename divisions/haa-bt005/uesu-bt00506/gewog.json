@@ -1,0 +1,47 @@
+{
+  "id": "BT00506",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Uesu",
+    "en": "Uesu",
+    "slug": "uesu-bt00506"
+  },
+  "code": {
+    "id": "BT00506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT005",
+    "level": 1,
+    "name": {
+      "local": "ཧཱ་",
+      "en": "Haa",
+      "slug": "haa-bt005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT005",
+      "level": 1,
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "15001"
+  ],
+  "geo": {
+    "lat": "27.345",
+    "lon": "89.315"
+  },
+  "metadata": {},
+  "source": {}
+}

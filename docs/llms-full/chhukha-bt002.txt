@@ -1,0 +1,64 @@
+# Chhukha — Bhutan Administrative Divisions
+
+> 11 sub-districts
+> Code: BT002
+> Coordinates: 27.016, 89.544
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bjachho
+
+Code: BT00201, Coordinates: 27.075, 89.584
+
+
+### Bongo
+
+Code: BT00202, Coordinates: 26.924, 89.591
+
+
+### Chapchha
+
+Code: BT00203, Coordinates: 27.211, 89.551
+
+
+### Dala
+
+Code: BT00204, Coordinates: 26.815, 89.586
+
+
+### Dungna
+
+Code: BT00205, Coordinates: 27.082, 89.349
+
+
+### Geling
+
+Code: BT00206, Coordinates: 27.025, 89.461
+
+
+### Getana
+
+Code: BT00207, Coordinates: 26.919, 89.741
+
+
+### Logchina
+
+Code: BT00208, Coordinates: 26.957, 89.361
+
+
+### Metap
+
+Code: BT00209, Coordinates: 27.115, 89.425
+
+
+### Phuentsholing
+
+Code: BT00210, Coordinates: 26.918, 89.34
+
+
+### Samphelling
+
+Code: BT00211, Coordinates: 26.851, 89.484
+
+

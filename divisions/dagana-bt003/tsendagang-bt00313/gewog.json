@@ -1,0 +1,47 @@
+{
+  "id": "BT00313",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Tsendagang",
+    "en": "Tsendagang",
+    "slug": "tsendagang-bt00313"
+  },
+  "code": {
+    "id": "BT00313",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT003",
+    "level": 1,
+    "name": {
+      "local": "དར་དཀར་ན་",
+      "en": "Dagana",
+      "slug": "dagana-bt003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "35001"
+  ],
+  "geo": {
+    "lat": "26.88",
+    "lon": "89.922"
+  },
+  "metadata": {},
+  "source": {}
+}

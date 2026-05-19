@@ -1,0 +1,47 @@
+{
+  "id": "BT01105",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Jangchhubling",
+    "en": "Jangchhubling",
+    "slug": "jangchhubling-bt01105"
+  },
+  "code": {
+    "id": "BT01105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT011",
+    "level": 1,
+    "name": {
+      "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+      "en": "Samdrupjongkhar",
+      "slug": "samdrupjongkhar-bt011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT011",
+      "level": 1,
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "41001"
+  ],
+  "geo": {
+    "lat": "26.935",
+    "lon": "91.509"
+  },
+  "metadata": {},
+  "source": {}
+}

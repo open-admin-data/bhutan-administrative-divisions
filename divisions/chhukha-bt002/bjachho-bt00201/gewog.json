@@ -1,0 +1,47 @@
+{
+  "id": "BT00201",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Bjachho",
+    "en": "Bjachho",
+    "slug": "bjachho-bt00201"
+  },
+  "code": {
+    "id": "BT00201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT002",
+    "level": 1,
+    "name": {
+      "local": "ཆུ་ཁ",
+      "en": "Chhukha",
+      "slug": "chhukha-bt002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT002",
+      "level": 1,
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "21101"
+  ],
+  "geo": {
+    "lat": "27.075",
+    "lon": "89.584"
+  },
+  "metadata": {},
+  "source": {}
+}

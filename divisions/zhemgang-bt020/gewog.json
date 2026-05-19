@@ -1,0 +1,378 @@
+[
+  {
+    "id": "BT02001",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bardo",
+      "en": "Bardo",
+      "slug": "bardo-bt02001"
+    },
+    "code": {
+      "id": "BT02001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.102",
+      "lon": "90.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02002",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bjoka",
+      "en": "Bjoka",
+      "slug": "bjoka-bt02002"
+    },
+    "code": {
+      "id": "BT02002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "26.964",
+      "lon": "91.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02003",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gozhing",
+      "en": "Gozhing",
+      "slug": "gozhing-bt02003"
+    },
+    "code": {
+      "id": "BT02003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "26.963",
+      "lon": "90.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02004",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nangkor",
+      "en": "Nangkor",
+      "slug": "nangkor-bt02004"
+    },
+    "code": {
+      "id": "BT02004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.203",
+      "lon": "90.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02005",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ngangla",
+      "en": "Ngangla",
+      "slug": "ngangla-bt02005"
+    },
+    "code": {
+      "id": "BT02005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34103"
+    ],
+    "geo": {
+      "lat": "26.895",
+      "lon": "90.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02006",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Pangkhar",
+      "en": "Pangkhar",
+      "slug": "pangkhar-bt02006"
+    },
+    "code": {
+      "id": "BT02006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "26.899",
+      "lon": "90.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02007",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shingkhar",
+      "en": "Shingkhar",
+      "slug": "shingkhar-bt02007"
+    },
+    "code": {
+      "id": "BT02007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.213",
+      "lon": "90.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT02008",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Trong",
+      "en": "Trong",
+      "slug": "trong-bt02008"
+    },
+    "code": {
+      "id": "BT02008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT020",
+      "level": 1,
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT020",
+        "level": 1,
+        "name": {
+          "local": "གཞལམ་སྒང་",
+          "en": "Zhemgang",
+          "slug": "zhemgang-bt020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "27.159",
+      "lon": "90.63"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BT01506",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Lumang",
+    "en": "Lumang",
+    "slug": "lumang-bt01506"
+  },
+  "code": {
+    "id": "BT01506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT015",
+    "level": 1,
+    "name": {
+      "local": "བཀྲིས་སྒང་",
+      "en": "Trashigang",
+      "slug": "trashigang-bt015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT015",
+      "level": 1,
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "42004"
+  ],
+  "geo": {
+    "lat": "27.126",
+    "lon": "91.528"
+  },
+  "metadata": {},
+  "source": {}
+}

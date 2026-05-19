@@ -1,0 +1,47 @@
+{
+  "id": "BT00401",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Goenkhame",
+    "en": "Goenkhame",
+    "slug": "goenkhame-bt00401"
+  },
+  "code": {
+    "id": "BT00401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT004",
+    "level": 1,
+    "name": {
+      "local": "མགར་ས་",
+      "en": "Gasa",
+      "slug": "gasa-bt004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "16001"
+  ],
+  "geo": {
+    "lat": "27.795",
+    "lon": "89.677"
+  },
+  "metadata": {},
+  "source": {}
+}

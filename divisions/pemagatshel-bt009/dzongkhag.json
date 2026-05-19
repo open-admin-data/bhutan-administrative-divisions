@@ -1,0 +1,29 @@
+{
+  "id": "BT009",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "པདྨ་དགའ་ཚལ་",
+    "en": "Pemagatshel",
+    "slug": "pemagatshel-bt009"
+  },
+  "code": {
+    "id": "BT009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.981",
+    "lon": "91.318"
+  },
+  "metadata": {},
+  "source": {}
+}

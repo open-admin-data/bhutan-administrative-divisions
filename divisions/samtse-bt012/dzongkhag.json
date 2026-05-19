@@ -1,0 +1,29 @@
+{
+  "id": "BT012",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "བསམ་རྩེ་",
+    "en": "Samtse",
+    "slug": "samtse-bt012"
+  },
+  "code": {
+    "id": "BT012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.042",
+    "lon": "88.99"
+  },
+  "metadata": {},
+  "source": {}
+}

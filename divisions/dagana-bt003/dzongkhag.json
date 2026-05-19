@@ -1,0 +1,29 @@
+{
+  "id": "BT003",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "དར་དཀར་ན་",
+    "en": "Dagana",
+    "slug": "dagana-bt003"
+  },
+  "code": {
+    "id": "BT003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.991",
+    "lon": "89.924"
+  },
+  "metadata": {},
+  "source": {}
+}

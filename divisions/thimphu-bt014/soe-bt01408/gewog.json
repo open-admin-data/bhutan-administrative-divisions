@@ -1,0 +1,47 @@
+{
+  "id": "BT01408",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Soe",
+    "en": "Soe",
+    "slug": "soe-bt01408"
+  },
+  "code": {
+    "id": "BT01408",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT014",
+    "level": 1,
+    "name": {
+      "local": "ཐིམ་ཕུ་",
+      "en": "Thimphu",
+      "slug": "thimphu-bt014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT014",
+      "level": 1,
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "11001"
+  ],
+  "geo": {
+    "lat": "27.786",
+    "lon": "89.318"
+  },
+  "metadata": {},
+  "source": {}
+}

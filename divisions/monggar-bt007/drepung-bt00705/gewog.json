@@ -1,0 +1,47 @@
+{
+  "id": "BT00705",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Drepung",
+    "en": "Drepung",
+    "slug": "drepung-bt00705"
+  },
+  "code": {
+    "id": "BT00705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT007",
+    "level": 1,
+    "name": {
+      "local": "མོང་སྒར",
+      "en": "Monggar",
+      "slug": "monggar-bt007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT007",
+      "level": 1,
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "43001"
+  ],
+  "geo": {
+    "lat": "27.207",
+    "lon": "91.256"
+  },
+  "metadata": {},
+  "source": {}
+}

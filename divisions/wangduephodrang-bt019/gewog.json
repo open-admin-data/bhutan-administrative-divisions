@@ -1,0 +1,707 @@
+[
+  {
+    "id": "BT01901",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Athang",
+      "en": "Athang",
+      "slug": "athang-bt01901"
+    },
+    "code": {
+      "id": "BT01901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.286",
+      "lon": "90.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01902",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bjena",
+      "en": "Bjena",
+      "slug": "bjena-bt01902"
+    },
+    "code": {
+      "id": "BT01902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.463",
+      "lon": "90.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01903",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Daga",
+      "en": "Daga",
+      "slug": "daga-bt01903"
+    },
+    "code": {
+      "id": "BT01903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.228",
+      "lon": "89.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01904",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dangchhu",
+      "en": "Dangchhu",
+      "slug": "dangchhu-bt01904"
+    },
+    "code": {
+      "id": "BT01904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.6",
+      "lon": "90.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01905",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gangte",
+      "en": "Gangte",
+      "slug": "gangte-bt01905"
+    },
+    "code": {
+      "id": "BT01905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.468",
+      "lon": "90.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01906",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gasetsho Gom",
+      "en": "Gasetsho Gom",
+      "slug": "gasetsho-gom-bt01906"
+    },
+    "code": {
+      "id": "BT01906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.432",
+      "lon": "89.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01907",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gasetsho Om",
+      "en": "Gasetsho Om",
+      "slug": "gasetsho-om-bt01907"
+    },
+    "code": {
+      "id": "BT01907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.343",
+      "lon": "89.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01908",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kazhi",
+      "en": "Kazhi",
+      "slug": "kazhi-bt01908"
+    },
+    "code": {
+      "id": "BT01908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.757",
+      "lon": "90.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01909",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nahi",
+      "en": "Nahi",
+      "slug": "nahi-bt01909"
+    },
+    "code": {
+      "id": "BT01909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.444",
+      "lon": "89.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01910",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nyisho",
+      "en": "Nyisho",
+      "slug": "nyisho-bt01910"
+    },
+    "code": {
+      "id": "BT01910",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.567",
+      "lon": "90.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01911",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phangyuel",
+      "en": "Phangyuel",
+      "slug": "phangyuel-bt01911"
+    },
+    "code": {
+      "id": "BT01911",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.528",
+      "lon": "89.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01912",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Phobji",
+      "en": "Phobji",
+      "slug": "phobji-bt01912"
+    },
+    "code": {
+      "id": "BT01912",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.427",
+      "lon": "90.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01913",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Ruepisa",
+      "en": "Ruepisa",
+      "slug": "ruepisa-bt01913"
+    },
+    "code": {
+      "id": "BT01913",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.397",
+      "lon": "89.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01914",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Sephu",
+      "en": "Sephu",
+      "slug": "sephu-bt01914"
+    },
+    "code": {
+      "id": "BT01914",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.763",
+      "lon": "90.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01915",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Thedtsho",
+      "en": "Thedtsho",
+      "slug": "thedtsho-bt01915"
+    },
+    "code": {
+      "id": "BT01915",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT019",
+      "level": 1,
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT019",
+        "level": 1,
+        "name": {
+          "local": "དབང་འདུས་ཕོ་བྲང",
+          "en": "Wangduephodrang",
+          "slug": "wangduephodrang-bt019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "27.49",
+      "lon": "89.894"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BT01705",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Tangsibji",
+    "en": "Tangsibji",
+    "slug": "tangsibji-bt01705"
+  },
+  "code": {
+    "id": "BT01705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT017",
+    "level": 1,
+    "name": {
+      "local": "ཀྲོང་གསར་",
+      "en": "Trongsa",
+      "slug": "trongsa-bt017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT017",
+      "level": 1,
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "33001"
+  ],
+  "geo": {
+    "lat": "27.406",
+    "lon": "90.393"
+  },
+  "metadata": {},
+  "source": {}
+}

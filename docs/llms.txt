@@ -1,0 +1,90 @@
+# Bhutan Administrative Divisions
+
+> Open dataset of Bhutan's administrative hierarchy:
+> 20 districts, 205 sub-districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 20
+- Total sub-districts: 205
+- Coordinates: included (all levels)
+- Last updated: 2026-05-19
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/data/all-dzongkhag.json)
+- [All sub-districts (JSON)](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/data/all-gewog.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Bumthang](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/bumthang-bt001/) — 4 sub-districts
+- [Chhukha](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/chhukha-bt002/) — 11 sub-districts
+- [Dagana](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/dagana-bt003/) — 14 sub-districts
+- [Gasa](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/gasa-bt004/) — 4 sub-districts
+- [Haa](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/haa-bt005/) — 6 sub-districts
+- [Lhuentse](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/lhuentse-bt006/) — 8 sub-districts
+- [Monggar](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/monggar-bt007/) — 17 sub-districts
+- [Paro](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/paro-bt008/) — 10 sub-districts
+- [Pemagatshel](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/pemagatshel-bt009/) — 11 sub-districts
+- [Punakha](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/punakha-bt010/) — 11 sub-districts
+- [Samdrupjongkhar](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/samdrupjongkhar-bt011/) — 11 sub-districts
+- [Samtse](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/samtse-bt012/) — 15 sub-districts
+- [Sarpang](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/sarpang-bt013/) — 12 sub-districts
+- [Thimphu](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/thimphu-bt014/) — 8 sub-districts
+- [Trashigang](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/trashigang-bt015/) — 15 sub-districts
+- [Trongsa](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/trongsa-bt017/) — 5 sub-districts
+- [Tsirang](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/tsirang-bt018/) — 12 sub-districts
+- [Wangduephodrang](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/wangduephodrang-bt019/) — 15 sub-districts
+- [Yangtse](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/yangtse-bt016/) — 8 sub-districts
+- [Zhemgang](https://github.com/open-admin-data/bhutan-administrative-divisions/tree/main/divisions/zhemgang-bt020/) — 8 sub-districts
+
+## Per-District Full Data
+
+- [Bumthang](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/bumthang-bt001.txt)
+- [Chhukha](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/chhukha-bt002.txt)
+- [Dagana](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/dagana-bt003.txt)
+- [Gasa](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/gasa-bt004.txt)
+- [Haa](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/haa-bt005.txt)
+- [Lhuentse](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/lhuentse-bt006.txt)
+- [Monggar](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/monggar-bt007.txt)
+- [Paro](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/paro-bt008.txt)
+- [Pemagatshel](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/pemagatshel-bt009.txt)
+- [Punakha](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/punakha-bt010.txt)
+- [Samdrupjongkhar](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/samdrupjongkhar-bt011.txt)
+- [Samtse](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/samtse-bt012.txt)
+- [Sarpang](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/sarpang-bt013.txt)
+- [Thimphu](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/thimphu-bt014.txt)
+- [Trashigang](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/trashigang-bt015.txt)
+- [Trongsa](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/trongsa-bt017.txt)
+- [Tsirang](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/tsirang-bt018.txt)
+- [Wangduephodrang](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/wangduephodrang-bt019.txt)
+- [Yangtse](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/yangtse-bt016.txt)
+- [Zhemgang](https://raw.githubusercontent.com/open-admin-data/bhutan-administrative-divisions/main/docs/llms-full/zhemgang-bt020.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (sub-district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Bhutan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/bhutan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

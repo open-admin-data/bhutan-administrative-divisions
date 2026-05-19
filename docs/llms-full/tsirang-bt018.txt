@@ -1,0 +1,69 @@
+# Tsirang — Bhutan Administrative Divisions
+
+> 12 sub-districts
+> Code: BT018
+> Coordinates: 27.005, 90.156
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Barzhong
+
+Code: BT01801, Coordinates: 26.941, 90.076
+
+
+### Beteni
+
+Code: BT01802, Coordinates: 26.902, 90.081
+
+
+### Dunglegang
+
+Code: BT01803, Coordinates: 27.012, 90.199
+
+
+### Gosarling
+
+Code: BT01804, Coordinates: 27.029, 90.124
+
+
+### Kikorthang
+
+Code: BT01805, Coordinates: 27.002, 90.129
+
+
+### Mendrelgang
+
+Code: BT01806, Coordinates: 26.956, 90.113
+
+
+### Patakla
+
+Code: BT01807, Coordinates: 27.135, 90.146
+
+
+### Phuentenchhu
+
+Code: BT01808, Coordinates: 27.109, 90.232
+
+
+### Rangthangling
+
+Code: BT01809, Coordinates: 26.982, 90.102
+
+
+### Shemjong
+
+Code: BT01810, Coordinates: 27.038, 90.169
+
+
+### Tsholingkhor
+
+Code: BT01811, Coordinates: 27.012, 90.095
+
+
+### Tsirangtoe
+
+Code: BT01812, Coordinates: 27.057, 90.104
+
+

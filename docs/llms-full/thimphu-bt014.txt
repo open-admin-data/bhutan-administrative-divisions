@@ -1,0 +1,49 @@
+# Thimphu — Bhutan Administrative Divisions
+
+> 8 sub-districts
+> Code: BT014
+> Coordinates: 27.573, 89.583
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Chang
+
+Code: BT01401, Coordinates: 27.44, 89.678
+
+
+### Dagala
+
+Code: BT01402, Coordinates: 27.288, 89.675
+
+
+### Genye
+
+Code: BT01403, Coordinates: 27.303, 89.598
+
+
+### Kawang
+
+Code: BT01404, Coordinates: 27.573, 89.594
+
+
+### Lingzhi
+
+Code: BT01405, Coordinates: 27.839, 89.429
+
+
+### Mewang
+
+Code: BT01406, Coordinates: 27.441, 89.541
+
+
+### Naro
+
+Code: BT01407, Coordinates: 27.679, 89.543
+
+
+### Soe
+
+Code: BT01408, Coordinates: 27.786, 89.318
+
+

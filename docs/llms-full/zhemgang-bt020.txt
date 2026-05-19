@@ -1,0 +1,49 @@
+# Zhemgang — Bhutan Administrative Divisions
+
+> 8 sub-districts
+> Code: BT020
+> Coordinates: 27.082, 90.842
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Sub-districts
+
+### Bardo
+
+Code: BT02001, Coordinates: 27.102, 90.984
+
+
+### Bjoka
+
+Code: BT02002, Coordinates: 26.964, 91.085
+
+
+### Gozhing
+
+Code: BT02003, Coordinates: 26.963, 90.908
+
+
+### Nangkor
+
+Code: BT02004, Coordinates: 27.203, 90.79
+
+
+### Ngangla
+
+Code: BT02005, Coordinates: 26.895, 90.99
+
+
+### Pangkhar
+
+Code: BT02006, Coordinates: 26.899, 90.776
+
+
+### Shingkhar
+
+Code: BT02007, Coordinates: 27.213, 90.926
+
+
+### Trong
+
+Code: BT02008, Coordinates: 27.159, 90.63
+
+

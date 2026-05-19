@@ -1,0 +1,29 @@
+{
+  "id": "BT010",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "སྤུ་ན་ཁ་",
+    "en": "Punakha",
+    "slug": "punakha-bt010"
+  },
+  "code": {
+    "id": "BT010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.665",
+    "lon": "89.859"
+  },
+  "metadata": {},
+  "source": {}
+}

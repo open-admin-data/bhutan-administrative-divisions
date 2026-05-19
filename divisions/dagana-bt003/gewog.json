@@ -1,0 +1,660 @@
+[
+  {
+    "id": "BT00301",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Deorali",
+      "en": "Deorali",
+      "slug": "deorali-bt00301"
+    },
+    "code": {
+      "id": "BT00301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.79",
+      "lon": "89.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00302",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dorona",
+      "en": "Dorona",
+      "slug": "dorona-bt00302"
+    },
+    "code": {
+      "id": "BT00302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.874",
+      "lon": "89.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00303",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Drugyelgang",
+      "en": "Drugyelgang",
+      "slug": "drugyelgang-bt00303"
+    },
+    "code": {
+      "id": "BT00303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.986",
+      "lon": "90.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00304",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gesarling",
+      "en": "Gesarling",
+      "slug": "gesarling-bt00304"
+    },
+    "code": {
+      "id": "BT00304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.922",
+      "lon": "89.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00305",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Gozhi",
+      "en": "Gozhi",
+      "slug": "gozhi-bt00305"
+    },
+    "code": {
+      "id": "BT00305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.937",
+      "lon": "89.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00306",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kalidzingkha",
+      "en": "Kalidzingkha",
+      "slug": "kalidzingkha-bt00306"
+    },
+    "code": {
+      "id": "BT00306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21104"
+    ],
+    "geo": {
+      "lat": "27",
+      "lon": "89.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00307",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Khipisa",
+      "en": "Khipisa",
+      "slug": "khipisa-bt00307"
+    },
+    "code": {
+      "id": "BT00307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.038",
+      "lon": "89.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00308",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lajab",
+      "en": "Lajab",
+      "slug": "lajab-bt00308"
+    },
+    "code": {
+      "id": "BT00308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.095",
+      "lon": "90.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00309",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lhamoizingkha",
+      "en": "Lhamoizingkha",
+      "slug": "lhamoizingkha-bt00309"
+    },
+    "code": {
+      "id": "BT00309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21104"
+    ],
+    "geo": {
+      "lat": "26.759",
+      "lon": "89.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00310",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Nichula",
+      "en": "Nichula",
+      "slug": "nichula-bt00310"
+    },
+    "code": {
+      "id": "BT00310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.796",
+      "lon": "89.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00311",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Trashiding",
+      "en": "Trashiding",
+      "slug": "trashiding-bt00311"
+    },
+    "code": {
+      "id": "BT00311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.91",
+      "lon": "89.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00312",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsangkha",
+      "en": "Tsangkha",
+      "slug": "tsangkha-bt00312"
+    },
+    "code": {
+      "id": "BT00312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.037",
+      "lon": "90.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00313",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tsendagang",
+      "en": "Tsendagang",
+      "slug": "tsendagang-bt00313"
+    },
+    "code": {
+      "id": "BT00313",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "26.88",
+      "lon": "89.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00314",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Tseza",
+      "en": "Tseza",
+      "slug": "tseza-bt00314"
+    },
+    "code": {
+      "id": "BT00314",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT003",
+      "level": 1,
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT003",
+        "level": 1,
+        "name": {
+          "local": "དར་དཀར་ན་",
+          "en": "Dagana",
+          "slug": "dagana-bt003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "27.158",
+      "lon": "89.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

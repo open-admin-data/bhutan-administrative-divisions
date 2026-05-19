@@ -1,0 +1,47 @@
+{
+  "id": "BT00906",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Khar",
+    "en": "Khar",
+    "slug": "khar-bt00906"
+  },
+  "code": {
+    "id": "BT00906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT009",
+    "level": 1,
+    "name": {
+      "local": "པདྨ་དགའ་ཚལ་",
+      "en": "Pemagatshel",
+      "slug": "pemagatshel-bt009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT009",
+      "level": 1,
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "44001"
+  ],
+  "geo": {
+    "lat": "26.945",
+    "lon": "91.406"
+  },
+  "metadata": {},
+  "source": {}
+}

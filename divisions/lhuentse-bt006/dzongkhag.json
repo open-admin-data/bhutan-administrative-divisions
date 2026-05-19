@@ -1,0 +1,29 @@
+{
+  "id": "BT006",
+  "level": 1,
+  "level_name": {
+    "local": "རྫོང་ཁག",
+    "en": "District"
+  },
+  "name": {
+    "local": "ལྷུན་རྩེ",
+    "en": "Lhuentse",
+    "slug": "lhuentse-bt006"
+  },
+  "code": {
+    "id": "BT006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "gewog": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.732",
+    "lon": "91.135"
+  },
+  "metadata": {},
+  "source": {}
+}

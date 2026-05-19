@@ -1,0 +1,190 @@
+[
+  {
+    "id": "BT00401",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Goenkhame",
+      "en": "Goenkhame",
+      "slug": "goenkhame-bt00401"
+    },
+    "code": {
+      "id": "BT00401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "27.795",
+      "lon": "89.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00402",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Goenkhatoe",
+      "en": "Goenkhatoe",
+      "slug": "goenkhatoe-bt00402"
+    },
+    "code": {
+      "id": "BT00402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "27.867",
+      "lon": "89.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00403",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Laya",
+      "en": "Laya",
+      "slug": "laya-bt00403"
+    },
+    "code": {
+      "id": "BT00403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "28.07",
+      "lon": "89.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT00404",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lunana",
+      "en": "Lunana",
+      "slug": "lunana-bt00404"
+    },
+    "code": {
+      "id": "BT00404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT004",
+        "level": 1,
+        "name": {
+          "local": "མགར་ས་",
+          "en": "Gasa",
+          "slug": "gasa-bt004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "27.974",
+      "lon": "90.04"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

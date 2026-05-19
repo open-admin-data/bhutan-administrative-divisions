@@ -1,0 +1,47 @@
+{
+  "id": "BT01001",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Bapisa",
+    "en": "Bapisa",
+    "slug": "bapisa-bt01001"
+  },
+  "code": {
+    "id": "BT01001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT010",
+    "level": 1,
+    "name": {
+      "local": "སྤུ་ན་ཁ་",
+      "en": "Punakha",
+      "slug": "punakha-bt010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "13001"
+  ],
+  "geo": {
+    "lat": "27.504",
+    "lon": "89.863"
+  },
+  "metadata": {},
+  "source": {}
+}

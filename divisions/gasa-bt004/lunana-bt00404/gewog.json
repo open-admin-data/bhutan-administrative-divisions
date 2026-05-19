@@ -1,0 +1,47 @@
+{
+  "id": "BT00404",
+  "level": 2,
+  "level_name": {
+    "local": "རྒེད་འོག",
+    "en": "Sub-district"
+  },
+  "name": {
+    "local": "Lunana",
+    "en": "Lunana",
+    "slug": "lunana-bt00404"
+  },
+  "code": {
+    "id": "BT00404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BT004",
+    "level": 1,
+    "name": {
+      "local": "མགར་ས་",
+      "en": "Gasa",
+      "slug": "gasa-bt004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BT004",
+      "level": 1,
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "16001"
+  ],
+  "geo": {
+    "lat": "27.974",
+    "lon": "90.04"
+  },
+  "metadata": {},
+  "source": {}
+}

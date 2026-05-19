@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+BT01601,Bumdeling,Bumdeling,bumdeling-bt01601,BT01601,46001,27.79,91.5
+BT01602,Jamkhar,Jamkhar,jamkhar-bt01602,BT01602,46001,27.408,91.509
+BT01603,Khamdang,Khamdang,khamdang-bt01603,BT01603,46001,27.489,91.554
+BT01604,Ramjar,Ramjar,ramjar-bt01604,BT01604,46001,27.409,91.581
+BT01605,Toetsho,Toetsho,toetsho-bt01605,BT01605,46001,27.503,91.603
+BT01606,Tomzhangtshen,Tomzhangtshen,tomzhangtshen-bt01606,BT01606,46001,27.451,91.499
+BT01608,Trashiyangtse,Trashiyangtse,trashiyangtse-bt01608,BT01608,46001,27.563,91.476
+BT01607,Yalang,Yalang,yalang-bt01607,BT01607,46001,27.462,91.68

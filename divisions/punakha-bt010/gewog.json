@@ -1,0 +1,519 @@
+[
+  {
+    "id": "BT01001",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Bapisa",
+      "en": "Bapisa",
+      "slug": "bapisa-bt01001"
+    },
+    "code": {
+      "id": "BT01001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.504",
+      "lon": "89.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01002",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Chhubu",
+      "en": "Chhubu",
+      "slug": "chhubu-bt01002"
+    },
+    "code": {
+      "id": "BT01002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.663",
+      "lon": "89.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01003",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Dzoma",
+      "en": "Dzoma",
+      "slug": "dzoma-bt01003"
+    },
+    "code": {
+      "id": "BT01003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.582",
+      "lon": "89.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01004",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Goenshari",
+      "en": "Goenshari",
+      "slug": "goenshari-bt01004"
+    },
+    "code": {
+      "id": "BT01004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.719",
+      "lon": "89.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01005",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Guma",
+      "en": "Guma",
+      "slug": "guma-bt01005"
+    },
+    "code": {
+      "id": "BT01005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.577",
+      "lon": "89.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01006",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Kabjisa",
+      "en": "Kabjisa",
+      "slug": "kabjisa-bt01006"
+    },
+    "code": {
+      "id": "BT01006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.643",
+      "lon": "89.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01007",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Lingmukha",
+      "en": "Lingmukha",
+      "slug": "lingmukha-bt01007"
+    },
+    "code": {
+      "id": "BT01007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.547",
+      "lon": "89.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01008",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Shengabjimi",
+      "en": "Shengabjimi",
+      "slug": "shengabjimi-bt01008"
+    },
+    "code": {
+      "id": "BT01008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.607",
+      "lon": "89.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01009",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Talo",
+      "en": "Talo",
+      "slug": "talo-bt01009"
+    },
+    "code": {
+      "id": "BT01009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.557",
+      "lon": "89.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01010",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Toepisa",
+      "en": "Toepisa",
+      "slug": "toepisa-bt01010"
+    },
+    "code": {
+      "id": "BT01010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.524",
+      "lon": "89.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BT01011",
+    "level": 2,
+    "level_name": {
+      "local": "རྒེད་འོག",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "Toewang",
+      "en": "Toewang",
+      "slug": "toewang-bt01011"
+    },
+    "code": {
+      "id": "BT01011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BT010",
+      "level": 1,
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BT010",
+        "level": 1,
+        "name": {
+          "local": "སྤུ་ན་ཁ་",
+          "en": "Punakha",
+          "slug": "punakha-bt010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "27.737",
+      "lon": "89.913"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
