@@ -3,7 +3,7 @@
 > 15 sub-districts
 > Code: BT019
 > Coordinates: 27.583, 90.154
-> Last updated: 2026-05-19. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Sub-districts
 
