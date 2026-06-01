@@ -26,7 +26,11 @@
       "lon": "90.769"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/bumthang-bt001/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT002",
@@ -55,7 +59,11 @@
       "lon": "89.544"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/chhukha-bt002/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT003",
@@ -84,7 +92,11 @@
       "lon": "89.924"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/dagana-bt003/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT004",
@@ -113,7 +125,11 @@
       "lon": "89.861"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/gasa-bt004/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT005",
@@ -142,7 +158,11 @@
       "lon": "89.191"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/haa-bt005/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT006",
@@ -171,7 +191,11 @@
       "lon": "91.135"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/lhuentse-bt006/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT007",
@@ -200,7 +224,11 @@
       "lon": "91.212"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/monggar-bt007/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT008",
@@ -229,7 +257,11 @@
       "lon": "89.373"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/paro-bt008/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT009",
@@ -258,7 +290,11 @@
       "lon": "91.318"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/pemagatshel-bt009/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT010",
@@ -287,7 +323,11 @@
       "lon": "89.859"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/punakha-bt010/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT011",
@@ -316,7 +356,11 @@
       "lon": "91.801"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/samdrupjongkhar-bt011/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT012",
@@ -345,7 +389,11 @@
       "lon": "88.99"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/samtse-bt012/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT013",
@@ -374,7 +422,11 @@
       "lon": "90.452"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/sarpang-bt013/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT014",
@@ -403,7 +455,11 @@
       "lon": "89.583"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/thimphu-bt014/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT015",
@@ -432,7 +488,11 @@
       "lon": "91.735"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/trashigang-bt015/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT017",
@@ -461,7 +521,11 @@
       "lon": "90.43"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/trongsa-bt017/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT018",
@@ -490,7 +554,11 @@
       "lon": "90.156"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/tsirang-bt018/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT019",
@@ -519,7 +587,11 @@
       "lon": "90.154"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/wangduephodrang-bt019/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT016",
@@ -548,7 +620,11 @@
       "lon": "91.472"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/yangtse-bt016/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   },
   {
     "id": "BT020",
@@ -577,6 +653,10 @@
       "lon": "90.842"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bt/dzongkhags/zhemgang-bt020/",
+      "api": "https://openadmindata.org/api/bt/"
+    }
   }
 ]

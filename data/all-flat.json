@@ -1,582 +1,665 @@
-[
-  {
-    "id": "BT001",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "བུམ་ཐང་",
-      "en": "Bumthang",
-      "slug": "bumthang-bt001"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/bt/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/bhutan-administrative-divisions",
+  "data": [
+    {
       "id": "BT001",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "བུམ་ཐང་",
+        "en": "Bumthang",
+        "slug": "bumthang-bt001"
+      },
+      "code": {
+        "id": "BT001",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.708",
+        "lon": "90.769"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/bumthang-bt001/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 4
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.708",
-      "lon": "90.769"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT002",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "ཆུ་ཁ",
-      "en": "Chhukha",
-      "slug": "chhukha-bt002"
-    },
-    "code": {
+    {
       "id": "BT002",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "ཆུ་ཁ",
+        "en": "Chhukha",
+        "slug": "chhukha-bt002"
+      },
+      "code": {
+        "id": "BT002",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.016",
+        "lon": "89.544"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/chhukha-bt002/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 11
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.016",
-      "lon": "89.544"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT003",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "དར་དཀར་ན་",
-      "en": "Dagana",
-      "slug": "dagana-bt003"
-    },
-    "code": {
+    {
       "id": "BT003",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "དར་དཀར་ན་",
+        "en": "Dagana",
+        "slug": "dagana-bt003"
+      },
+      "code": {
+        "id": "BT003",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.991",
+        "lon": "89.924"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/dagana-bt003/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 14
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "26.991",
-      "lon": "89.924"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT004",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "མགར་ས་",
-      "en": "Gasa",
-      "slug": "gasa-bt004"
-    },
-    "code": {
+    {
       "id": "BT004",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "མགར་ས་",
+        "en": "Gasa",
+        "slug": "gasa-bt004"
+      },
+      "code": {
+        "id": "BT004",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.986",
+        "lon": "89.861"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/gasa-bt004/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 4
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.986",
-      "lon": "89.861"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT005",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "ཧཱ་",
-      "en": "Haa",
-      "slug": "haa-bt005"
-    },
-    "code": {
+    {
       "id": "BT005",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "ཧཱ་",
+        "en": "Haa",
+        "slug": "haa-bt005"
+      },
+      "code": {
+        "id": "BT005",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.323",
+        "lon": "89.191"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/haa-bt005/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 6
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.323",
-      "lon": "89.191"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT006",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "ལྷུན་རྩེ",
-      "en": "Lhuentse",
-      "slug": "lhuentse-bt006"
-    },
-    "code": {
+    {
       "id": "BT006",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "ལྷུན་རྩེ",
+        "en": "Lhuentse",
+        "slug": "lhuentse-bt006"
+      },
+      "code": {
+        "id": "BT006",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.732",
+        "lon": "91.135"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/lhuentse-bt006/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 8
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.732",
-      "lon": "91.135"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT007",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "མོང་སྒར",
-      "en": "Monggar",
-      "slug": "monggar-bt007"
-    },
-    "code": {
+    {
       "id": "BT007",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "མོང་སྒར",
+        "en": "Monggar",
+        "slug": "monggar-bt007"
+      },
+      "code": {
+        "id": "BT007",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.269",
+        "lon": "91.212"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/monggar-bt007/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 17
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.269",
-      "lon": "91.212"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT008",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "སྤ་རོ་",
-      "en": "Paro",
-      "slug": "paro-bt008"
-    },
-    "code": {
+    {
       "id": "BT008",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "སྤ་རོ་",
+        "en": "Paro",
+        "slug": "paro-bt008"
+      },
+      "code": {
+        "id": "BT008",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.487",
+        "lon": "89.373"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/paro-bt008/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 10
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.487",
-      "lon": "89.373"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT009",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "པདྨ་དགའ་ཚལ་",
-      "en": "Pemagatshel",
-      "slug": "pemagatshel-bt009"
-    },
-    "code": {
+    {
       "id": "BT009",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "པདྨ་དགའ་ཚལ་",
+        "en": "Pemagatshel",
+        "slug": "pemagatshel-bt009"
+      },
+      "code": {
+        "id": "BT009",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.981",
+        "lon": "91.318"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/pemagatshel-bt009/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 11
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "26.981",
-      "lon": "91.318"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT010",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "སྤུ་ན་ཁ་",
-      "en": "Punakha",
-      "slug": "punakha-bt010"
-    },
-    "code": {
+    {
       "id": "BT010",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "སྤུ་ན་ཁ་",
+        "en": "Punakha",
+        "slug": "punakha-bt010"
+      },
+      "code": {
+        "id": "BT010",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.665",
+        "lon": "89.859"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/punakha-bt010/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 11
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.665",
-      "lon": "89.859"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT011",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
-      "en": "Samdrupjongkhar",
-      "slug": "samdrupjongkhar-bt011"
-    },
-    "code": {
+    {
       "id": "BT011",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "བསམ་གྲུབ་ལྗོངས་མཁར",
+        "en": "Samdrupjongkhar",
+        "slug": "samdrupjongkhar-bt011"
+      },
+      "code": {
+        "id": "BT011",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.021",
+        "lon": "91.801"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/samdrupjongkhar-bt011/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 11
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.021",
-      "lon": "91.801"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT012",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "བསམ་རྩེ་",
-      "en": "Samtse",
-      "slug": "samtse-bt012"
-    },
-    "code": {
+    {
       "id": "BT012",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "བསམ་རྩེ་",
+        "en": "Samtse",
+        "slug": "samtse-bt012"
+      },
+      "code": {
+        "id": "BT012",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.042",
+        "lon": "88.99"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/samtse-bt012/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 15
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.042",
-      "lon": "88.99"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT013",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "གསར་སྤང་",
-      "en": "Sarpang",
-      "slug": "sarpang-bt013"
-    },
-    "code": {
+    {
       "id": "BT013",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "གསར་སྤང་",
+        "en": "Sarpang",
+        "slug": "sarpang-bt013"
+      },
+      "code": {
+        "id": "BT013",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.976",
+        "lon": "90.452"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/sarpang-bt013/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 12
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "26.976",
-      "lon": "90.452"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT014",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "ཐིམ་ཕུ་",
-      "en": "Thimphu",
-      "slug": "thimphu-bt014"
-    },
-    "code": {
+    {
       "id": "BT014",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "ཐིམ་ཕུ་",
+        "en": "Thimphu",
+        "slug": "thimphu-bt014"
+      },
+      "code": {
+        "id": "BT014",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.573",
+        "lon": "89.583"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/thimphu-bt014/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 8
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.573",
-      "lon": "89.583"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT015",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "བཀྲིས་སྒང་",
-      "en": "Trashigang",
-      "slug": "trashigang-bt015"
-    },
-    "code": {
+    {
       "id": "BT015",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "བཀྲིས་སྒང་",
+        "en": "Trashigang",
+        "slug": "trashigang-bt015"
+      },
+      "code": {
+        "id": "BT015",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.251",
+        "lon": "91.735"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/trashigang-bt015/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 15
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.251",
-      "lon": "91.735"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT016",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "བཀྲིས་གཡང་རྩེ",
-      "en": "Yangtse",
-      "slug": "yangtse-bt016"
-    },
-    "code": {
+    {
       "id": "BT016",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "བཀྲིས་གཡང་རྩེ",
+        "en": "Yangtse",
+        "slug": "yangtse-bt016"
+      },
+      "code": {
+        "id": "BT016",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.678",
+        "lon": "91.472"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/yangtse-bt016/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 8
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.678",
-      "lon": "91.472"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT017",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "ཀྲོང་གསར་",
-      "en": "Trongsa",
-      "slug": "trongsa-bt017"
-    },
-    "code": {
+    {
       "id": "BT017",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "ཀྲོང་གསར་",
+        "en": "Trongsa",
+        "slug": "trongsa-bt017"
+      },
+      "code": {
+        "id": "BT017",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.463",
+        "lon": "90.43"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/trongsa-bt017/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 5
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.463",
-      "lon": "90.43"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT018",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "རྩི་རང་",
-      "en": "Tsirang",
-      "slug": "tsirang-bt018"
-    },
-    "code": {
+    {
       "id": "BT018",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "རྩི་རང་",
+        "en": "Tsirang",
+        "slug": "tsirang-bt018"
+      },
+      "code": {
+        "id": "BT018",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.005",
+        "lon": "90.156"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/tsirang-bt018/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 12
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.005",
-      "lon": "90.156"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT019",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "དབང་འདུས་ཕོ་བྲང",
-      "en": "Wangduephodrang",
-      "slug": "wangduephodrang-bt019"
-    },
-    "code": {
+    {
       "id": "BT019",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "དབང་འདུས་ཕོ་བྲང",
+        "en": "Wangduephodrang",
+        "slug": "wangduephodrang-bt019"
+      },
+      "code": {
+        "id": "BT019",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.583",
+        "lon": "90.154"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/wangduephodrang-bt019/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 15
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.583",
-      "lon": "90.154"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "BT020",
-    "level": 1,
-    "level_name": {
-      "local": "རྫོང་ཁག",
-      "en": "District"
-    },
-    "name": {
-      "local": "གཞལམ་སྒང་",
-      "en": "Zhemgang",
-      "slug": "zhemgang-bt020"
-    },
-    "code": {
+    {
       "id": "BT020",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "gewog": 8
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "27.082",
-      "lon": "90.842"
-    },
-    "metadata": {},
-    "source": {}
-  }
-]
+      "level": 1,
+      "level_name": {
+        "local": "རྫོང་ཁག",
+        "en": "District"
+      },
+      "name": {
+        "local": "གཞལམ་སྒང་",
+        "en": "Zhemgang",
+        "slug": "zhemgang-bt020"
+      },
+      "code": {
+        "id": "BT020",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "gewog": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.082",
+        "lon": "90.842"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bt/dzongkhags/zhemgang-bt020/",
+        "api": "https://openadmindata.org/api/bt/"
+      }
+    }
+  ]
+}

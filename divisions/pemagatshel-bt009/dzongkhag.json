@@ -25,5 +25,9 @@
     "lon": "91.318"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/pemagatshel-bt009/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

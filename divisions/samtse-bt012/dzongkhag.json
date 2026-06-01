@@ -25,5 +25,9 @@
     "lon": "88.99"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/samtse-bt012/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

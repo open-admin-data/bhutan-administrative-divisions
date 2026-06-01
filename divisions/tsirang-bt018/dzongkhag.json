@@ -25,5 +25,9 @@
     "lon": "90.156"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/tsirang-bt018/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

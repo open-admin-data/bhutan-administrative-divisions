@@ -25,5 +25,9 @@
     "lon": "89.373"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/paro-bt008/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

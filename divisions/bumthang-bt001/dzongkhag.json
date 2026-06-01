@@ -25,5 +25,9 @@
     "lon": "90.769"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/bumthang-bt001/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

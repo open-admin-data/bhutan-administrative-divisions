@@ -25,5 +25,9 @@
     "lon": "91.472"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/yangtse-bt016/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

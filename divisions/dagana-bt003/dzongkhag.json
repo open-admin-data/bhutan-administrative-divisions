@@ -25,5 +25,9 @@
     "lon": "89.924"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/dagana-bt003/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

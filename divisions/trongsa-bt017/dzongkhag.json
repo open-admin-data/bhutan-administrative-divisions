@@ -25,5 +25,9 @@
     "lon": "90.43"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/trongsa-bt017/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

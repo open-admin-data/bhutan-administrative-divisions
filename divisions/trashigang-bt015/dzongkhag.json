@@ -25,5 +25,9 @@
     "lon": "91.735"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/trashigang-bt015/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

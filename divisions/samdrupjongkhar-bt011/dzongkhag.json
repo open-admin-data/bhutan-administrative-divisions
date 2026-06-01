@@ -25,5 +25,9 @@
     "lon": "91.801"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/samdrupjongkhar-bt011/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

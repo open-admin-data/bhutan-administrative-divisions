@@ -25,5 +25,9 @@
     "lon": "90.154"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/wangduephodrang-bt019/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

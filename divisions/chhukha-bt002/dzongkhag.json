@@ -25,5 +25,9 @@
     "lon": "89.544"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/chhukha-bt002/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

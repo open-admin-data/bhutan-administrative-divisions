@@ -25,5 +25,9 @@
     "lon": "90.842"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bt/dzongkhags/zhemgang-bt020/",
+    "api": "https://openadmindata.org/api/bt/"
+  }
 }

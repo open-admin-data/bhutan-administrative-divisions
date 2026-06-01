@@ -3,7 +3,7 @@
 > 11 sub-districts
 > Code: BT010
 > Coordinates: 27.665, 89.859
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-districts
 
