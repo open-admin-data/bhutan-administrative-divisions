@@ -3,7 +3,7 @@
 > 10 sub-districts
 > Code: BT008
 > Coordinates: 27.487, 89.373
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Sub-districts
 

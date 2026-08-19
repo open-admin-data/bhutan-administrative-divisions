@@ -3,7 +3,7 @@
 > 4 sub-districts
 > Code: BT004
 > Coordinates: 27.986, 89.861
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Sub-districts
 

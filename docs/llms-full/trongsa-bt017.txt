@@ -3,7 +3,7 @@
 > 5 sub-districts
 > Code: BT017
 > Coordinates: 27.463, 90.43
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Sub-districts
 
