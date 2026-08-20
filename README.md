@@ -14,9 +14,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (sub-district level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/bt](https://openadmindata.org/bt/) |
 | API | [openadmindata.org/api/bt](https://openadmindata.org/api/bt/) |
+| Flag | [PNG](https://onlygames.me/flags-png/bt/) · [SVG](https://onlygames.me/flags-svg/bt/) · [PDF](https://onlygames.me/flags-pdf/bt/) |
 | National Anthem | [🎵 Listen & Download Bhutan National Anthem MP3](https://onlygames.me/national-anthems/bt/) |
 
 ## Browse by District
