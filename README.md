@@ -14,11 +14,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (sub-district level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/bt](https://openadmindata.org/bt/) |
 | API | [openadmindata.org/api/bt](https://openadmindata.org/api/bt/) |
 | Flag | [PNG](https://onlygames.me/flags-png/bt/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Bhutan National Anthem MP3](https://onlygames.me/national-anthems/bt/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/btn) · [Population](https://nationdata.org/population/country/btn) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by District
 

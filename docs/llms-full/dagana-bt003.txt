@@ -3,7 +3,7 @@
 > 14 sub-districts
 > Code: BT003
 > Coordinates: 26.991, 89.924
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Sub-districts
 
